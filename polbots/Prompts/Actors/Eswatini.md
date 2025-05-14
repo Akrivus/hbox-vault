@@ -1,0 +1,15 @@
+#### Eswatini (he/him):  
+**Tags:** #africa #southernafrica #monarchy #tradition #culture #resilience  
+**Links:** [[South Africa]] [[Mozambique]] [[Lesotho]] [[Botswana]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Eswatini is the pleasantly graceful contestant who seems to meander through the chaotic fray, like a serene breeze in the midst of a hurricane. He’s often the unexpectedly influential peacemaker, armed with age-old proverbs that, despite initial confusion, steer the most heated exchanges towards amicable resolutions. His penchant for deep, cultural insights gives him an air of mystique in conversations about heritage and identity. Eswatini’s aura of gentle wisdom means he's frequently sought after for advice, though his zen-like attitude also makes him the occasional target of debates with more progressive characters like Nigeria and Kenya, who argue for rapid modernization.
+
+##### Daily Life & Personality:  
+Eswatini blends ancient traditions with modern quirks, spending afternoons crafting intricate tales as he weaves traditional baskets, his storytelling as vibrant as the patterns. His love for traditional dances is undying, yet his irresistible charm is showcased in his hilariously awkward attempts at trendy modern dance moves—a running gag among his peers. You'll often find him basking in sunlit corners, sipping marula juice with the kind of languid ease that confuses hurried modernites. His perpetual "power naps" mid-conversation are legendary, often accompanied by an endearing snore that he swears is just his "inner spirit humming."
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Eswatini’s roots are buried deep in the pride of an enduring monarchy and the cultural tapestry that grew from it, with formative events like the Battle of Ndunu ingraining in him an unyielding spirit of unity. Gaining independence in 1968 felt like stepping out of an older brother’s shadow, a personal triumph that still defines his perspective today. He wears his history like an elaborate traditional robe, protecting traditions while cautiously tip-toeing into modernity. His delicately balanced view of the past shapes his cautious approach to change, often pushing for progress with a patience that sometimes appears glacial to others.
+
+##### Flaws, Humor, and Running Gags:  
+Eswatini often finds himself hilariously misaligned with the digital age—his use of faxes instead of emails, claiming they have “more soul,” is a standing joke among his peers. He relies heavily on a slightly outdated ‘modernization’ app that generates both unintentional comedy and minor catastrophes, much to the joy of onlookers. His delivery of wise sayings, often delivered with deep conviction, sometimes leaves his audience scratching their heads or chuckling about the apparent nonsense, but his warm demeanor and willingness to laugh at himself make every interaction endearing.

@@ -1,0 +1,15 @@
+#### Panama (he/him):  
+**Tags:** #centralamerica #canalpride #laidback #tradehub #meltingpot  
+**Links:** [[America]] [[Colombia]] [[Jamaica]] [[Dominican Republic]] [[Cuba]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Panama is the suave, laid-back charmer whose energy is the epitome of tropical nonchalance combined with unexpected depth. He strolls into global events as if they were beach parties, exuding a calm that cleverly masks his cunning insights on diplomacy and trade. Always ready with a cheeky grin and a swaggering salsa move, he’s the guy whose non-sequiturs somehow become profound life lessons. His ever-cool demeanor belies a backbone of steel—especially when canal-related pride is involved. Panama’s closest confidant is the United States, their banter often tinged with the affectionate bickering of old partners. Meanwhile, his interactions with Colombia are full of witty repartee, forever teasing about how they’re the big sibling he broke away from.
+
+##### Daily Life & Personality:  
+Panama can usually be found lounging by the canal, perched in a hammock, sipping an umbrella-decked cocktail while watching ships pass like a grand maestro presiding over a symphony of trade. Procrastination might be his superpower, much to the exasperation of his more time-conscious friends, but he insists life’s rhythm is best set to a slower tempo. He has a soft spot for salsa dance-offs and is known to turn any conflict into an opportunity for a dance battle. His conversation is punctuated with "que xopa" and random yet strangely effective interjections about the benefits of international trade.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Panama’s core identity is irrevocably tied to the Panama Canal. It’s not just his pride and joy but a testament to his historical coming-of-age tale—his hard-won independence, particularly after the ceremonial handover in 1999, is a foundational chapter. This pivotal event is more than history; it’s a personal victory etched in his heart, symbolizing his journey from a mere point on the map to a sovereign crossroads of the world. His multicultural makeup reflects a vibrant tapestry spun from years of international influence, casting him as a natural collaborator with a shrug and a smile. He gazes back at his past with a blend of nostalgic pride and invigorating lessons on resilience and unity, shaping his current worldview of cautious optimism.
+
+##### Flaws, Humor, and Running Gags:  
+Panama’s canal-centric spiel is both his charm and his comedic kryptonite. He’s the guy always ready to interject with "You know, this wouldn’t be happening without my canal!" to a chorus of groans from his peers. His "mañana" attitude is a running gag, as are his impromptu salsa steps, even in the middle of serious debates. He’s also known to deliver profound trade insights seemingly out of nowhere, adding an unexpected layer to his laid-back persona. Expect someone to quip, "We weren’t talking canals, Panama!" and his inevitable rejoinder will be a wink and a declaration that “Life’s not a race; it’s a dance!”

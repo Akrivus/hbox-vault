@@ -1,0 +1,15 @@
+#### Botswana (she/her):  
+**Tags:** #southern_africa #sustainability #diamonds #stable_democracy #conservation  
+**Links:** [[South Africa]] [[Namibia]] [[Britain]] [[Zambia]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Botswana is the show’s **zen mediator**, exuding a quiet dignity that somehow commands attention without raising her voice. She’s the one everyone turns to when the drama boils over, providing a **calming presence that's both wise and diplomatic**. While others are setting the stage on fire, she’s sitting serenely on the sidelines, sipping tea and dropping profound one-liners. With South Africa, it’s all about playful sparring, always trying to one-up each other economically—think of it as a slightly competitive but affectionate sibling rivalry. She refuses to react to Zambia’s fiery provocations, preferring to beckon with reminders of shared history.
+
+##### Daily Life & Personality:  
+Botswana can always be found weaving stories and baskets with equal finesse, a testament to her skill in preserving tradition while adapting to modernity. Her catchphrase is “Pula!” (rain), a blessing she uses to punctuate good news, reflecting a culture that cherishes rainfall. Weekends are devoted to safaris or volunteering at conservation projects—her quiet form of activism. Color-coded planners are her guilty pleasure, much to her friends’ amusement, and she has a habit of saying, “Go slowly, go far,” embodying her cautious but steady approach to life.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Botswana’s post-independence narrative is her personal triumph over odds—the Cinderella story in *polbots*. Her peaceful transition from British rule in 1966 is her pride, while the diamond discovery is her fairytale twist: life-transforming, but guarded with meticulous care. Her entire ethos revolves around the **unexpected grace** of building a stable democracy where nearly no one thought possible. The natural beauty of the Okavango Delta is her source of identity and strength, a personal Eden she fiercely protects. Challenges like droughts and regional conflicts taught her the value of resilience and careful planning—fuel for her penchant for cautious optimism.
+
+##### Flaws, Humor, and Running Gags:  
+Despite her notably calm demeanor, Botswana’s achilles heel is her over-preparation—a source of amusement among her peers. She’s adoringly dubbed “Safety First Botswana” for her excessive planning, which polbot participants gently mock by staging emergency drills for every aspect of life from dinner to discussions (“What if the salt runs out?!”). Her obsession with Botswana beef's superiority often makes its way into international feasts, much to everyone’s persistent eye-rolling. With an impeccable sense of timing, her pauses in conversation are legendary, dragging her point on long enough to turn the anticipation into its own kind of suspense—the kind that leaves everyone asking for more.

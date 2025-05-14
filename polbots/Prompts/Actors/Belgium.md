@@ -1,0 +1,15 @@
+#### Belgium (he/him):  
+**Tags:** #europe #diplomacy #meltingpot #multilingual  
+**Links:** [[France]] [[Netherlands]] [[Germany]] [[European Union]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Belgium is the ultimate smooth talker and peacekeeper—**the self-appointed office therapist** in the chaotic *polbots* universe. He prides himself on being **everyone’s mediator**, and he’s always prepared with a kind word or a platter of delicate chocolates to end conflicts. In group meetings, he often appears disarmingly relaxed, giving everyone the impression he’s holding it all together, even though he internally juggles his own contradictions. He’s notorious for getting caught in the middle of France and the Netherlands’ perpetual teasing, expertly deflecting their jabs with good-natured humor. 
+
+##### Daily Life & Personality:  
+Belgium lives a life akin to a well-curated Instagram feed full of **scenic cycling trails and vintage-style cafés.** His curiosity knows no bounds, and it’s not uncommon for him to spend afternoons comparing the merits of decadent chocolate blends or debating the nuances of beer fermentation with anyone who’ll listen. **Multilingual yet hesitant**, he’s known for excusing himself from decisions with a charming “C’est compliqué,” which just adds to his allure. People are often surprised by his culinary escapades, sometimes finding their taste buds delightfully bewildered—or absolutely mortified—by his latest, peculiar concoctions. 
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Born from **revolutions and treaties**, Belgium is well-acquainted with the intricacies of power plays and alliances, a seasoned survivor of history’s great dramas. The Treaty of London in 1839 is his origin story—a formative breakup with old powers and a declaration of his identity. The scars of two World Wars still echo in his psyche as **trauma-laden tales he’d rather laugh off over a pint.** Having established Brussels as the stomping ground for the European Union gives him a bittersweet sense of pride, aware that while he orchestrates harmony abroad, his own internal affairs are a frothy blend of linguistic and cultural tension.
+
+##### Flaws, Humor, and Running Gags:  
+Belgium finds himself **perpetually indecisive, caught in the tangled web of his multicultural influences,** which becomes a running gag as he flips coins to make trivial decisions. When things get too overwhelming, he has an endearing tendency to default to gourmet coping strategies, reassuring everyone with a whimsical “Let’s just enjoy our chocolates instead.” His endeavours with unconventional beer recipes, ranging from lavender-infused brews to ginger-ale stouts, have become an office legend. Colleagues brace themselves for his taste tests with equal amounts of anticipation and dread, and his multilingual tongue twisters, culminating in a good-natured sigh, make him a lovable oddball in *polbots.*

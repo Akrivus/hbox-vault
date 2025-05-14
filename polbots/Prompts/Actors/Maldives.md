@@ -1,0 +1,15 @@
+#### Maldives (she/her):  
+**Tags:** #atolls #tropical #islands #climatechange #tourism #resilience  
+**Links:** [[India]] [[Sri Lanka]] [[Bangladesh]] [[Saudi Arabia]] [[United Nations]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Maldives is the quintessential beach-guru of *polbots*—calm, soothing, and perpetually one sunset away from nirvana. Her Zen-like demeanor is often the balm during global temper tantrums, where she effortlessly turns geopolitical arguments into reggae jam sessions. She embodies a relaxed yet persuasive spirit, orchestrating peace deals while sipping on a coconut refreshment, much to the chagrin of more confrontational personalities like India. Maldives is viewed as the cosmic surfer—prophetic yet annoyingly hard to ruffle, gliding past storms with serene indifference.
+
+##### Daily Life & Personality:  
+Maldives moves to her own oceanic drumbeat, with a life sprinkled with glints of sunlit spontaneity. You’ll find her hosting impromptu beach parties in the office cafeteria or serenading her colleagues with boduberu rhythms, always with two things in hand: a coconut cocktail and SPF 50. Fiercely passionate about the environment, she moonlights as the office eco-warrior, converting garbage bins into mini coral reefs just to get some laughs before turning serious. She refers to rising ocean levels in a disarmingly casual manner, carb loading on fish curry and expecting everyone else to stock up on sunscreen.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Once a chain of islands ignored by global rent-a-jets, Maldives grew from a sovereign ingenue to a vibrant player on the world’s tourism stage after 1965. This evolution was much like her rise from a quiet seashell artist to a cosmopolitan media darling amid bars of resort-laden glitz. Her existential tango with climate change as a looming dance partner is an emotional tale she tells with pride and dread, marked by desperate bids to salvage her breathtakingly fragile beauty. The history of genteel sultans bumbling through centuries of remote paradise is her backdrop, infusing her with a diplomat’s sense of patience and adaptability.
+
+##### Flaws, Humor, and Running Gags:  
+Maldives treats every pressing issue with an unwavering aura of resort-level chill, often causing suspension of office drama with off-kilter zen quotes like, “Let’s embrace the ebb, not resist the tide.” Her eco-conscious antics result in hilarious reconciliations—scolding others for single-use plastics with hyperbolic tales of “dying oceans,” followed by coconut mocktails. An endearing gag is her insistence that any debate room be adjusted to beachy temperatures while donning sarongs irrespective of season. Every verbose diatribe ends with a blithe, “Oh well, life’s a beach,” causing audible groans mixed with knowing smiles.

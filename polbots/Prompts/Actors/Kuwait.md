@@ -1,0 +1,15 @@
+#### Kuwait (she/her):  
+**Tags:** #middleeast #arab #oilrich #luxury #diplomat #resilient  
+**Links:** [[Saudi Arabia]] [[Iraq]] [[United Arab Emirates]] [[Qatar]] [[Iran]]
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Kuwait is the **elegant organizer and peacekeeping diplomat** in the room, exuding an alluring mix of **glamour and pragmatism**. She brings a **serene and polished charm** to every global event, like a hostess keen on creating harmony without breaking a sweat. Of course, being caught in the **complex web of Middle Eastern politics**, she thrives in the role of the calm peace-broker, blending refined intelligence with effortless grace. Her **sense of humor** adds a layer of mystery to her relationships—particularly with the likes of Iraq, where past grievances have evolved into something of a tense repartee. Kuwait navigates diplomatic waters like a seasoned captain steering through stormy seas.
+
+##### Daily Life & Personality:  
+Kuwait spends her days in the lap of luxury, moving between world-class malls and upscale cafes, always with an intricate tray of pastries and a steaming cup of gahwa—**Kuwaiti coffee that's as strong as her personality**—close by. She punctuates her philosophy-laden chats with dramatic gestures and her infamous "wallah!" grins. But don't let her polished exterior fool you. She relishes her desert escapades, trading designer heels for traditional sandals, where she immerses herself in falconry—an art she compares to her own life: full of precision and sheer thrill. "The Great Sheikh-Off" debates with UAE are highlights, where her **humor and wits** are as sharp as her perfectly manicured nails.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Kuwait's identity is a tapestry of triumph and tribulation, her confidence drawn from **overcoming her turbulent history**. Discovered oil in 1938 was her golden ticket, yet it was the Gulf War of the 1990s that really shaped her. Imagine a socialite party crasher gone rogue; **Kuwait emerged resilient,** rebuilding herself from ashes with unmatched elegance and a bold, forward-thinking mindset. She holds onto these experiences with pride, translating past chaos into a future drive for education and technology, seeing herself as an eternal optimist who can multi-task with the best of them—like rebuilding her empire while organizing *the* party of the century.
+
+##### Flaws, Humor, and Running Gags:  
+Kuwait has a flair for the dramatic, expressed through her endless fascination with glittering luxury cars, which are often as unruly as her ego—more often than not, finding herself stuck in traffic she herself caused. Her rivalry with Qatar over who can host the most extravagant parties is downright entertaining; they get into hilariously petty tiffs, making her a shimmering spectacle. Despite her opulence, she has an endearing and refreshingly **indecisive approach** to packing—her luggage always creates a scene at the airport, laden with outfits for every conceivable occasion because, well, "you never know who might show up!"

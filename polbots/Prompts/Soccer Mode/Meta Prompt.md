@@ -1,0 +1,1 @@
+The first skit in the match serves as a **narrative digestif**, bringing together up to **four key characters** to reflect on the latest global events presented in the **World Context**.

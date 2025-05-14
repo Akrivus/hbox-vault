@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "0efe50e475053e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9e56cb97aba8e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f7deea35b7cbe84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5858760c32ec7268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialogue Editor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dialogue Editor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffb2424ee5468ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f7dea3db21d0e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dee9be5c6e22855",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "141d663caeac9c71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#liberatores",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aca933fe1d69a43b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3541929267125e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "845135750d1c247c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0795ac06a3c93431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/L8. Bar Kokhba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L8. Bar Kokhba"
+            }
+          },
+          {
+            "id": "c5b147bf09f45092",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/L8. Bar Kokhba.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from L8. Bar Kokhba"
+            }
+          },
+          {
+            "id": "fb4d1a082f980750",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a87679b7dbdd021c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/L8. Bar Kokhba.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of L8. Bar Kokhba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7f7deea35b7cbe84",
+  "lastOpenFiles": [
+    "Dialogue Editor.md",
+    "5. Memory Generation.md",
+    "Characters/Livia.md",
+    "Dialogue Editor.md.meta",
+    "7. Sequel Generator.md",
+    "3. Editor Process.md",
+    "4. Dialogue Generation.md",
+    "6. Episode-to-Episode Continuity.md",
+    "Vibe Selection.md",
+    "Scene Layout.md",
+    "Sentiment Tagger.md",
+    "1AA. Scenario Generation.md",
+    "2. Behavior Generation.md",
+    "1DB. Scenario Generation.md",
+    "Characters/Porcia.md",
+    "Characters/Pete.md",
+    "Characters/Clodia.md",
+    "Characters/Gallia.md",
+    "Characters/Octavia.md",
+    "Characters/Calpurnia.md",
+    "Characters/Brutus.md",
+    "Characters/Balbus.md",
+    "Characters/Lepidus.md",
+    "Characters/Julius Caesar.md",
+    "Characters/Marc Antony.md",
+    "Characters/Nero.md",
+    "1BB. Scenario Generation.md.meta",
+    "1BA. Scenario Generation.md.meta",
+    "1AB. Scenario Generation.md.meta",
+    "1DB. Scenario Generation.md.meta",
+    "1CA. Scenario Generation.md.meta",
+    "1AA. Scenario Generation.md.meta",
+    "1CB. Scenario Generation.md.meta",
+    "7. Sequel Generator.md.meta",
+    "Untitled",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

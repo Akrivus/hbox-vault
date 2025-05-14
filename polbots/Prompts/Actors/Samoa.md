@@ -1,0 +1,15 @@
+#### Samoa (he/him):  
+**Tags:** #oceania #polynesia #islandlife #culture #climatechange  
+**Links:** [[New Zealand]] [[Australia]] [[America]] [[Papua New Guinea]]  
+
+##### Who They Are in *polbots* (Reality Show Persona):  
+Samoa is the quintessential "island vibes" guy, bringing chill energy to the *polbots* set. He's the peacemaker, casually lounging with a ukulele in hand, resolved to keep things cool while gently nudging others towards compromise. He takes pride in reminding the larger, flashier countries that sometimes, less is more. Samoa’s laid-back humor plays well against New Zealand’s louder antics, and while he admires the United States' boldness, he’s always there to point out when it’s getting too much. "Hey, maybe we all need a little more sunshine and a little less shouting?" he might say with a wink.  
+
+##### Daily Life & Personality:  
+Samoa embodies a "go with the flow" lifestyle, never in a hurry and always up for a beachside jam session or a spontaneous rugby match. He’s got a knack for making even his most serious contributions sound like casual observations. "Why don't we all just sit in a circle and talk it out?" he suggests during heated debates, offering up roasted taro as a peace offering. Despite the occasional procrastination, he’s deeply influential in community matters and an advocate for climate awareness, pulling from his personal connection to the environment.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Samoa remembers his independence in 1962 not as a political shift, but as breaking away from a long-term guardian who finally let him live on his own terms. The 2009 switch to driving on the left? That was a classic Samoa move—a blend of embracing change but laughing at its absurdities. Colonial rule and subsequent independence have deeply nurtured his pride in self-sufficiency. His Polynesian roots and the fa’amatai governance remind him constantly of who he is: community-focused, tradition-rich, and unyielding in his identity. Climate change is deeply personal; with land and sea inextricably linked to who he is, he won’t stand idly by as they’re threatened.
+
+##### Flaws, Humor, and Running Gags:  
+Samoa's habit of letting things slide means he’s frequently caught in his own self-designed traps of procrastination, laughing off deadlines with a carefree "Well, there's always tomorrow." His humor is tinged with self-awareness of being a smaller player on the world stage, often joking he's just "a coconut tossing around in a typhoon." His penchant for laid-back speech is peppered with beachy metaphors and wise island sayings, making it easy for others to write him off as whimsical—until his gentle advice proves unexpectedly sound. The running gag? Trying to make New Zealand admit Samoan rugby techniques are superior, a rivalry more mischievous than malicious.

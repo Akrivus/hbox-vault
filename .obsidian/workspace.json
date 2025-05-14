@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a961f4293679ff78",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43723258df51b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefce9c371deeac7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abba24a3b2cc8c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "826491fb67a0c45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d0b98c37c676ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e581f731a23ef08e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3c8d060169cfed8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ef651fd25277981",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1696ed63f72623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3baecc7e69febdad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "polbots/Outputs/UN Discord/2025-05-07T00-31-51.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-07T00-31-51"
+            }
+          },
+          {
+            "id": "71a07a0daa914482",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "polbots/Outputs/UN Discord/2025-05-07T00-31-51.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-07T00-31-51"
+            }
+          },
+          {
+            "id": "1d0243c7ba6ee1e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a68635de08b417bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "polbots/Outputs/UN Discord/2025-05-07T00-31-51.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-07T00-31-51"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2d0b98c37c676ed",
+  "lastOpenFiles": [
+    "WWW/polbots/McDonald's/Worried.png",
+    "WWW/polbots/McDonald's/Wink.png",
+    "WWW/polbots/McDonald's/Tired.png",
+    "WWW/polbots/McDonald's/Suspicious.png",
+    "WWW/polbots/McDonald's/Surprised.png",
+    "WWW/polbots/McDonald's/Stupid.png",
+    "WWW/polbots/McDonald's/Stressed.png",
+    "WWW/polbots/McDonald's/Stoned.png",
+    "WWW/polbots/McDonald's/Stern.png",
+    "WWW/polbots/McDonald's/Sob.png",
+    "WWW/polbots/McDonald's/Smug.png",
+    "WWW/polbots/McDonald's",
+    "WWW/polbots/Quebec",
+    "WWW/polbots/California",
+    "WWW/polbots/Soviet Union",
+    "WWW/polbots/East Germany",
+    "WWW/polbots/Nazi Germany",
+    "WWW/polbots/Scotland",
+    "WWW/polbots/Hamas",
+    "WWW/polbots/Hezbollah",
+    "WWW/polbots/Texas",
+    "RomeBots/Prompts/Actors/Nero/Memories/2025-05-11T23-58-07.md",
+    "RomeBots/Outputs/Defaults/Editor Process/2025-05-12T21-18-51.md",
+    "RomeBots/Outputs/Defaults/Dialogue Generation/2025-05-12T21-19-12.md",
+    "RomeBots/Outputs/Defaults/Dialogue Editor Process/2025-05-12T21-20-55.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-44.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-41.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-37.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-34.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-31.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-23.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-19.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-16.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-12.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-08.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-04.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-20-01.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-58.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-54.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-49.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-46.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-43.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-39.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-36.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-32.md",
+    "RomeBots/Outputs/Defaults/Sentiment Tagger/2025-05-12T21-19-28.md",
+    "Untitled.canvas"
+  ]
+}
