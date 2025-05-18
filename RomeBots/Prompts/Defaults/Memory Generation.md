@@ -13,7 +13,7 @@ This is the layer of _reaction, fear, curiosity,_ and _emotional drift._
 
 ---
 
-### 🔁 Your Task
+### Your Task
 
 Generate 3–5 first-person memory entries that reflect:
 
@@ -32,7 +32,7 @@ Each entry should:
 
 ---
 
-### 🧾 Inputs
+### Inputs
 
 #### Input 1: Scene Transcript
 
@@ -50,7 +50,7 @@ Each entry should:
 
 ---
 
-## ✅ Output Format
+## Output Format
 
 - [Memory summary—something new or shifted]  
     [Internal note, reaction, or reflection in character voice]  

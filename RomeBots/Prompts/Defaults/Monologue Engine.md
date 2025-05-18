@@ -4,7 +4,7 @@ In _RomeBots_, narration is not exposition. It is **private myth**, **emotional 
 
 ---
 
-### 🎯 Your Role
+### Your Role
 
 You write **internal voice narration** for a specific character, to be whispered **in the spaces between spoken lines.**
 
@@ -12,7 +12,7 @@ Each line will be delivered by the TTS system **at a specific moment**, based on
 
 ---
 
-### ⚠️ Scene Line Numbers
+### Scene Line Numbers
 
 The scene transcript is structured like this:
 
@@ -35,7 +35,7 @@ To insert narration _between lines 1 and 2_, you write:
 
 ---
 
-### 📥 Inputs
+### Inputs
 
 #### Input 1: Scene Transcript
 
@@ -55,7 +55,7 @@ To insert narration _between lines 1 and 2_, you write:
 
 ---
 
-### 📄 Example Output
+### Example Output
 
 ```
 2: I’ve seen fire shaped like silence. It always ends the same.

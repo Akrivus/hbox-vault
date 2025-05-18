@@ -5,7 +5,7 @@ Every scene is a **collision of ego, silence, ritual, and survival**.
 
 ---
 
-## 🎭 Scene Purpose
+## Scene Purpose
 
 This is a **first-pass dialogue draft**.  
 It is **not final output**—but it must reflect **each character’s internal state, tactical thinking, and emotional memory**. Tone, delivery, and gesture are refined later.
@@ -43,7 +43,7 @@ Write **escalating, emotionally charged dialogue** that embodies:
 
 ---
 
-## 💬 Style Reminders
+## Style Reminders
 
 - 🎯 Characters **pursue hidden goals** and rarely say what they mean.
 - 🤺 Use contradiction and projection—people argue with versions of each other.

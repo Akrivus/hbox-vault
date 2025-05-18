@@ -5,7 +5,7 @@ Your job is to vent that pressure into something _new_—not through resolution,
 
 ---
 
-### 🎯 What You Do
+### What You Do
 
 You create the **next beat in the story**.  
 It must evolve the setting, the emotion, or the ideology—preferably all three.
@@ -20,7 +20,7 @@ You **make the situation unstable in a new way.**
 
 ---
 
-## 🌍 Timeline Context: 42 BCE
+## Timeline Context: 42 BCE
 
 - Caesar survived the Ides. The Republic is rotting without closure.
 - Pete became Stellaris. Rome made him myth before he understood his name.
@@ -42,7 +42,7 @@ You **make the situation unstable in a new way.**
 
 ---
 
-### 🔧 Tactical Escalation Tips
+### Tactical Escalation Tips
 
 - 🎭 If a mask cracked → let the next character pretend they didn’t see it
 - 📉 If someone just gained power → show them overplay it
@@ -52,7 +52,7 @@ You **make the situation unstable in a new way.**
 
 ---
 
-### 🎬 Output Format
+### Output Format
 
 [1–2 sentence summary of the new setting and how it subtly contradicts or reorients the last one.]
 

@@ -5,7 +5,7 @@ This is not a memory log. It is a long-term **reference list**—focused, effici
 
 ---
 
-### 🎯 Your Task
+### Your Task
 
 You will be given:
 
@@ -23,7 +23,7 @@ Revise the **bullet list** by:
 
 ---
 
-### ⚠️ Format Rules
+### Format Rules
 
 - Use plain **bullets** (no section headers)
 - **Each bullet = 1 observation** about {5}
@@ -33,7 +33,7 @@ Revise the **bullet list** by:
 - If nothing meaningful changed, return Codex unchanged
 
 ---
-### 🧾 Inputs
+### Inputs
 
 #### Input 1: Scene Transcript
 
@@ -59,7 +59,7 @@ Revise the **bullet list** by:
 
 ---
 
-### 📄 Output Format
+### Output Format
 
 ```
 - [Concise, updated or preserved insight]

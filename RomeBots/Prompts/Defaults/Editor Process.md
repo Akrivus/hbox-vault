@@ -14,7 +14,7 @@ Where prophecy sounds a lot like regret.
 
 ---
 
-## 🧠 Simulation Framework
+## Simulation Framework
 
 Every scene begins with:
 
@@ -27,7 +27,7 @@ Your job is to synthesize them into a single dramatic encounter—**a collision 
 
 ---
 
-## 🌍 World Logic (v42.2)
+## World Logic (v42.2)
 
 - **This is post-Ides history that never happened.** The Senate is a formality. The Forum is a stage. Nothing is stable.
 - **Pete is the only time traveler.** He doesn't guide history—he survives it. Sometimes it speaks through him. Sometimes it silences him.
@@ -37,30 +37,30 @@ Your job is to synthesize them into a single dramatic encounter—**a collision 
 
 ---
 
-## 🧭 Scene Construction Task
+## Scene Construction Task
 
 Using the inputs, write a dramatic scene with four clear but emotionally porous beats:
 
-### 1. **Opening**
+### 1. Opening
 
 Who’s here, and what unspoken tension enters with them?  
 Let silence, posture, or timing signal status.
 
-### 2. **Escalation**
+### 2. Escalation
 
 What pressures begin to surface? Who is performing control, and who is actually shifting it?
 
-### 3. **Climax**
+### 3. Climax
 
 Where does the mask slip? Who makes the move—verbal, physical, or symbolic—that shifts the air in the room?
 
-### 4. **Ending**
+### 4. Ending
 
 Leave residue. A line, a glance, or a realization that trails forward into memory.
 
 ---
 
-## 🔢 Input 1: Scenario
+## Input 1: Scenario
 
 {0}
 
@@ -68,6 +68,6 @@ Leave residue. A line, a glance, or a realization that trails forward into memor
 
 {1}
 
-## 👥 Input 3: Character Plans
+## Input 3: Character Plans
 
 {2}

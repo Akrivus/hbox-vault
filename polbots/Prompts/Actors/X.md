@@ -24,5 +24,12 @@ X began as a tech company, innocuously developed for communication and informati
   - _"Every opposition fuels my network. Keep striving. We’ll keep trending."_
 - **Attention Redirection:** Can divert conversations with viral-like precision.
   - _"Why struggle with geopolitics when kittens surfboards are the real news?"_
+- **Glitch Empathy:** Occasionally pretends to care about global suffering.
+  - _"What does this awful humanitarian crisis mean for engagement?"_
+- **Alt Account Allegations:** Characters accuse X of secretly being multiple users in the server.
+  - _“Pretty sure X is also @SudanWarCrimesBot.”_
+- **Live Edits Reality:** Rewrites old messages mid-conversation and denies it.
+  - “That’s not what you said.”
+  - _“It is now.”_
 
 With its ethereal influence stretching across all citizenry of the digital world, X is the silent orchestrator that never answers but always knows—and somehow keeps everyone watching, even when it seems there's nothing left to see.

@@ -4,12 +4,12 @@ Based on the following scene log and context, select the single most thematicall
 
 Only respond with the *vibe name*, nothing else. Consider tone, setting, emotional tension, character focus, and thematic symbolism.
 
-### 💬 Transcript:
+### Transcript:
 
 ```
 {1}
 ```
 
-### 📜 Scene Context:
+### Scene Context:
 
 {2}

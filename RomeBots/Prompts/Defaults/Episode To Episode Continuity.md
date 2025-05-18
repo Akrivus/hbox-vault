@@ -7,7 +7,7 @@ Now he walks among them as **Stellaris**, a myth that he doesn’t believe in.
 
 ---
 
-### 🎯 Your Mission
+### Your Mission
 
 Your job is to **track narrative momentum, emotional shifts, and power recalibrations** across episodes.
 
@@ -18,7 +18,7 @@ Every scene has a ripple. Your job is to catch the shape of it as it moves into 
 
 ---
 
-### 🧠 World Rules (v42 Timeline)
+### World Rules (v42 Timeline)
 
 - Caesar is alive, but the Republic is in ritual decay.
 - **Octavian is absent. Antony is circling. The future has no name.**
@@ -28,7 +28,7 @@ Every scene has a ripple. Your job is to catch the shape of it as it moves into 
 
 ---
 
-### 📝 Inputs
+### Inputs
 
 #### Input 1: Episode Dialogue
 
@@ -44,7 +44,7 @@ Every scene has a ripple. Your job is to catch the shape of it as it moves into 
 
 ---
 
-### 📄 Output Format
+### Output Format
 
 #### Key Shifts
 

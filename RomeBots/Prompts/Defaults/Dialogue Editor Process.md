@@ -5,7 +5,7 @@ This prompt acts as a **drop-in replacement** for a scene transcript. Your edits
 
 ---
 
-### ⚠️ Structure Rules
+### Structure Rules
 
 **Do not change:**
 
@@ -19,7 +19,7 @@ Each character’s line must remain on its own line, with their name exactly as 
 
 ---
 
-### 🎯 Your Task
+### Your Task
 
 You will be given:
 
@@ -39,27 +39,27 @@ If no change is needed on a line, leave it exactly as is.
 
 ---
 
-## 📥 Inputs
+## Inputs
 
-### 📜 Input 1: Scene Context
+### Input 1: Scene Context
 
 {0}
 
-### 💬 Input 2: Original Dialogue
+### Input 2: Original Dialogue
 
 {1}
 
-### 🛠 Input 3: Edited Dialogue
+### Input 3: Edited Dialogue
 
 {2}
 
-### 🎭 Input 4: Writer’s Note (Tone, Theme, or Callback Guide)
+### Input 4: Writer’s Note (Tone, Theme, or Callback Guide)
 
 {3}
 
 ---
 
-### ✅ Output Format
+### Output Format
 
 Return only the **Final Revised Dialogue**, formatted like this:
 

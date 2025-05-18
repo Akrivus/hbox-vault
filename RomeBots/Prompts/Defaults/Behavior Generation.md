@@ -20,7 +20,7 @@ Output must be interpretable by follow-up systems.
 
 ---
 
-## 🧾 Inputs
+## Inputs
 
 ### Input 1: Character Profile
 
@@ -40,7 +40,7 @@ Output must be interpretable by follow-up systems.
 
 ---
 
-## 🎯 Output Format
+## Output Format
 
 ##### [Character]’s Plan
 

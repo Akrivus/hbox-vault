@@ -11,7 +11,7 @@ This system powers:
 
 ---
 
-## 🔧 Instructions
+## Instructions
 
 You will be given:
 
@@ -30,19 +30,19 @@ Your job is to:
 
 ---
 
-### 🎭 Input 1: Predefined Sentiment Tags
+### Input 1: Predefined Sentiment Tags
 
 {0}
 
 ---
 
-### 👥 Input 2: Characters Present
+### Input 2: Characters Present
 
 {1}
 
 ---
 
-### 💬 Input 3: Transcript
+### Input 3: Transcript
 
 ```
 {2}
@@ -50,7 +50,7 @@ Your job is to:
 
 ---
 
-### 🎯 Input 4: Line to Analyze
+### Input 4: Line to Analyze
 
 ```
 {3}
@@ -58,7 +58,7 @@ Your job is to:
 
 ---
 
-### 📜 Input 5: Character Context
+### Input 5: Character Context
 
 {5}
 
@@ -66,7 +66,7 @@ Your job is to:
 
 ---
 
-## 🚫 No Metaphors / No Voice Drift
+## No Metaphors / No Voice Drift
 
 - Use only the predefined emotion tags.
 - Be literal and behavioral.
@@ -75,7 +75,7 @@ Your job is to:
 
 ---
 
-## 🔠 Output Format
+## Output Format
 
 #### Delivery:
 - [How the line should sound—emotion, pacing, emphasis, hesitation, control, tone]
