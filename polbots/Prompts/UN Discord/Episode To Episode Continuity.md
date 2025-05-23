@@ -48,7 +48,7 @@ Your job is to **set up the next episode**, ensuring:
 - "I should have been a baker." (Germany, under his breath)  
 
 **Ongoing Issues:**  
-- **Hungary will likely double down on his sovereignty obsession.**  
+- **Hungary will likely double down on her sovereignty obsession.**  
 - **France is still annoyed with Britain and might sabotage him next time.**  
 - **Germany is one bad meeting away from an existential crisis.**  
 - **UN is visibly tired. Expect him to snap soon.**  

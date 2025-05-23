@@ -37,24 +37,3 @@ Your job is to **write a 120-150 word response** capturing their:
 
 [Short, punchy reaction (120-150 words), detailing their emotions, political take, and comedic approach.]
 ```
-
----
-
-### Example Generated Output (France’s Perspective)
-
-```
-##### France’s Perspective:
-
-France’s fingers drum impatiently on her desk. Hungary has **once again** decided that the **EU is optional** whenever it inconveniences him.  
-
-Fine. **Two can play this game.**  
-*"Ah yes, sovereignty. A noble cause. Unless, of course, it involves EU funding, in which case Hungary is positively *allergic* to independence."*  
-
-Hungary keeps talking. **Poland nods along, Britain is heckling from the sidelines, and Germany looks five seconds from a stress-induced coma.**  
-
-France considers diplomacy. She really does. **Then Britain opens his mouth.**  
-*"Ah, another fine example of European cooperation,"* he smirks.  
-France inhales sharply. **Not worth it.**  
-
-Instead, she’s **already drafting a bureaucratic nightmare** for Hungary’s next EU policy proposal. **Two can play the long game.**  
-```

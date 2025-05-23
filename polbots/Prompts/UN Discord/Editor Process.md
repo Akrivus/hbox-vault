@@ -57,7 +57,6 @@ Germany attempts **rational mediation**, but nobody listens.
 **Climax:**  
 France finally **loses it.** *"Fine, Hungary, if you don’t like the EU, feel free to stop cashing the checks!"*  
 Hungary gasps in **fake outrage.** Poland suddenly **"reconsiders his position."**  
-
 **Ending:**  
 UN, exhausted, **closes the meeting early.** Britain grins.  
 *"Glad I left."*  

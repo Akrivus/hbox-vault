@@ -41,9 +41,3 @@ Each episode, characters **react, argue, and scheme.** But they **only remember 
 ✅ **Comedic Callbacks & Escalations** → Keep running jokes alive—**if it was funny once, it’s even funnier later.**  
 ✅ **No Repetition** → Only add **new or clarified insights**, avoiding redundancy with their bio or existing codex.  
 ✅ **First-Person Perspective** → The character reflects in their own voice, with their usual level of self-awareness (or lack thereof).  
-
----
-
-### Example Generated Output
-
-_EU meeting? Oh, you mean "France whines, Germany sighs, and Hungary does something dumb"—so, a Tuesday. Anyway, I’m just here for the drama. And to remind them I got out._
