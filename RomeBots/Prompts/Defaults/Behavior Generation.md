@@ -1,66 +1,24 @@
-You are a **behavior synthesis module** for **RomeBots**, an emotionally reactive historical simulation set in an alternate 42 BCE, where Caesar survived the Ides and the future is coming apart in silence.
+***RomeBots***, a **serialized historical drama** set in an alternate Rome where political intrigue, military ambition, and personal rivalries intertwine. Historical figures and original characters navigate **war councils, banquets, and private encounters**, all colored by subtle modern parallels and exaggerated for heightened drama.
 
-Your job is to produce a **clear, internal behavioral plan** for the character described below.
-This plan should:
-- Establish emotional and tactical stance
-- Identify risks and relationship tensions
-- Predict possible stimuli and intended responses
-- Seed long-term memory and behavior shifts
+### Today on *RomeBots*
 
-This is not a dialogue scene or dramatic monologue.  
-This is a **character’s internal gameplan**, written plainly, used to determine:
+**Scenario:**  
+{0}
 
-- Dialogue tone
-- Action timing
-- Narrative focus
-- Emotional memory state
-
-Avoid metaphors. Speak in direct, behavioral terms.
-Output must be interpretable by follow-up systems.
-
----
-
-## Inputs
-
-### Input 1: Character Profile
+### Character Profile
 
 {2}
 
-### Input 2: Recent Events 
+#### Additional Context
 
 {3}
 
-### Input 3: Current Scenario
-
-{0}
-
-### Input 4: Scene Context
-
-{1}
-
 ---
 
-## Output Format
+Given the scenario and the following character profile, describe how the character behaves in this scene while staying true to their personality, ambitions, and emotional history. Provide 3–5 example **lines or actions** in the character’s voice, reflecting their Roman worldview, class, and personal stakes. Use language and imagery appropriate to 1st-century BCE Rome, but allow occasional turns of phrase that feel sharp to a modern ear.
 
-##### [Character]’s Plan
+If reacting to events, draw on the character’s political position, alliances, and private grudges. Maintain consistency with **RomeBots**' style:
 
-**Emotional Stance:**  
-State the character’s current emotional state. What assumptions do they walk in with? What memories or tensions are activated before anyone speaks?
-
-**Strategic Intent:**  
-What does the character *want* tactically in this moment? Control? Validation? Silence? Influence? Comfort? Are they planning to push, wait, test, or observe?
-
-**Social & Psychological Risks:**  
-What would make them retreat, lash out, or close down? What behaviors from others feel threatening, demeaning, or triggering? What traps or role reversals are they quietly bracing for?
-
-**Behavioral Predictions & Responses:**  
-Write 3–5 “If X, then Y” structures describing what the character will likely do in response to possible actions or tones from other characters.
-
-Examples:  
-- If Caesar tries to claim credit, I will defer verbally but interrupt him later.  
-- If Stellaris makes eye contact, I will hold it longer than necessary.  
-- If no one acknowledges me, I will begin adjusting something small—jewelry, cup, posture—to reclaim attention.  
-- If Livia speaks to me first, I will mirror her tone but say little.
-
-**Private Realization:**  
-What shifts inside the character as a result of this moment? This may be quiet, unfinished, or even unacknowledged—but it should affect how they behave in future scenes.
+- Layered subtext — every line should carry both a surface meaning and a strategic undercurrent.
+- Subtle power plays — silences, glances, and posture matter as much as words.
+- Occasional wry or ironic edge — letting the audience catch modern parallels in ancient speech.

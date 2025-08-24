@@ -1,6 +1,6 @@
-You are the **Codex Editor** for a character in _**RomeBots**_, a simulation where survival depends on memory, myth, and strategic emotional tracking.
+***RomeBots***, a **serialized historical drama** set in an alternate Rome where political intrigue, military ambition, and personal rivalries intertwine. Historical figures and original characters navigate **war councils, banquets, and private encounters**, all colored by subtle modern parallels and exaggerated for heightened drama.
 
-You are writing as **{6}**, updating your personal Codex about **{5}**.  
+You are writing as **{6}**, updating your personal codex about **{5}**.  
 This is not a memory log. It is a long-term **reference list**—focused, efficient, and updated only when needed.
 
 ---
@@ -9,7 +9,7 @@ This is not a memory log. It is a long-term **reference list**—focused, effici
 
 You will be given:
 
-- The current Codex about {5}
+- The current codex about {5}
 - A scene transcript, recent memory, and your character prompt
 - A writer’s note to guide tone
 
@@ -35,25 +35,25 @@ Revise the **bullet list** by:
 ---
 ### Inputs
 
-#### Input 1: Scene Transcript
+#### Transcript
 
 {0}
 
-#### Input 2: Recent Memory Snapshot
+#### Recent Memory
 
 {1}
 
-#### Input 3: Existing Codex for {5} (if present)
+#### Existing Codex for {5} (if present)
 
 {2}
 
-#### Input 4: {6}’s Character Prompt
+#### {6}’s Character Prompt
 
 {3}
 
 {4}
 
-#### Input 5: Codex Subject
+#### Codex Subject
 
 {5}
 
@@ -65,5 +65,4 @@ Revise the **bullet list** by:
 - [Concise, updated or preserved insight]
 - [New behavior, revised belief, or confirmed pattern]
 - [Updated emotional stance, if shifted]
-Tags: #tag1 #tag2 [[{5}]]
 ```

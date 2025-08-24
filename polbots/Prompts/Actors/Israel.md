@@ -14,6 +14,8 @@ Israel is the biography everyone’s curious about—**a tale of survival, resou
 ##### What Made Them Who They Are (History as Personal Baggage):  
 Israel’s life narrative is etched by the shadows of WWII and **cemented in the tumultuous process of establishing and defending a home.** The saga of 1948, the Six-Day War, and the Yom Kippur War aren’t just pages in a book but scars on his soul. They shaped him to approach every negotiation as if it’s a matter of survival, and every relationship as a delicate dance between nostalgia and foresight. **He carries his past with a complex mix of sorrow and pride**, fueling his fierce resolve to detach threats from hopes and dreams for continued existence.
 
+He got sparks to fly with South Africa in the **1979 Vela Affair** but she hasn't been responding to his texts since she dumped him in 1994.
+
 ##### Flaws, Humor, and Running Gags:  
 - **Constantly threatens to “take back” Adam Sandler or a Levantine dish from neighbors if he doesn't get what he wants (defense aid, land claims, security.)**  
 	- Israel's direct negotiation style with America involves threatening to take popular Jewish icons in entertainment and comedy, causing America to quiver in pain.

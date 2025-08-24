@@ -27,44 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actors/Scotland.md",
+                "file": "Prompts/UN Discord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scotland"
-            }
-          },
-          {
-            "id": "ddc03e6dba06f286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Dialogue Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Dialogue Generation"
-            }
-          },
-          {
-            "id": "6e9d98ac23a6b2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentiment Tagger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sentiment Tagger"
+              "title": "UN Discord"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentiment Tagger.md",
+                "file": "Prompts/UN Discord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sentiment Tagger"
+              "title": "Backlinks for UN Discord"
             }
           },
           {
@@ -205,45 +177,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9d98ac23a6b2cf",
+  "active": "92c996dc0b3e0c54",
   "lastOpenFiles": [
-    "Dialogue Editor.md",
-    "4. Dialogue Generation.md",
-    "3. Editor Process.md",
-    "2. Behavior Generation.md",
-    "1. Scenario Generation.md",
-    "5. Memory Generation.md",
-    "Sentiment Tagger.md",
-    "Actors/Algeria.md",
-    "Actors/Afghanistan.md",
-    "UN Office Hours Prompt.md",
-    "UN Office Hours Prompt.md.meta",
-    "Tools/Actor Backgrounds.md",
-    "Modes/Segment Template.md",
-    "Soccer 4. Highlight Prompt.md",
-    "Title Card Generation.md",
-    "Noise Tagger.md",
-    "Soccer 1. Scenario Generation.md",
-    "Soccer 2. Dialogue Generation.md",
-    "Soccer 3. Meta-Prompt.md",
-    "6. Episode-to-Episode Continuity.md",
-    "Archive/Soccer Dialogue Agent.md.meta",
-    "Archive/Soccer Dialogue Agent.md",
-    "Prop Tagger.md",
-    "Actors/France.md",
-    "Actors/European Union.md",
-    "Actors/Britain.md",
-    "Actors/Kuwait.md",
-    "Actors/Ireland.md",
-    "Actors/Wales.md.meta",
-    "Untitled.canvas.meta",
+    "Prompts/Soccer Mode/Dialogue Generation.md",
+    "Prompts/Soccer Mode/Highlight Prompt.md",
+    "Prompts/Soccer Mode/Sentiment Tagger.md",
+    "Outputs/UN Discord/Dialogue Generation/2025-08-15T12-50-50.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-03-12.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-02-40.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-02-21.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T12-49-38.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T12-49-55.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-02-00.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-02-54.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-03-45.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-04-01.md",
+    "Outputs/UN Discord/Episode To Episode Continuity/2025-08-15T13-00-26.md",
+    "Outputs/UN Discord/2025-08-15T13-01-27.md",
+    "Outputs/UN Discord/2025-08-15T12-47-59.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-03-32.md",
+    "Outputs/UN Discord/Behavior Generation/2025-08-15T13-01-44.md",
+    "Outputs/UN Discord/Ideas/2025-08-15T13-01-07.md",
+    "Outputs/UN Discord/Ideas",
+    "Outputs/UN Discord/Title Card Generation/2025-08-15T13-00-38.md",
+    "Outputs/UN Discord/Title Card Generation",
+    "Outputs/UN Discord/Vibe Selector/2025-08-15T13-00-29.md",
+    "Outputs/UN Discord/Vibe Selector",
+    "Outputs/UN Discord/Episode To Episode Continuity",
+    "Outputs/UN Discord/Memory Generation/2025-08-15T13-00-10.md",
+    "Outputs/UN Discord/Memory Generation/2025-08-15T13-00-00.md",
+    "Outputs/UN Discord/Memory Generation/2025-08-15T12-59-46.md",
+    "Outputs/UN Discord/Noise Tagger/2025-08-15T12-58-31.md",
+    "Outputs/UN Discord/Memory Generation/2025-08-15T12-59-37.md",
+    "Outputs/UN Discord/Memory Generation",
+    "Outputs/UN Discord/Prop Tagger",
+    "Outputs/UN Discord/Noise Tagger",
+    "Outputs/UN Discord/Sentiment Tagger",
+    "Outputs/UN Discord/Dialogue Generation",
+    "Outputs/UN Discord/Editor Process",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Soccer 4. Highlight Prompt.md.meta",
-    "Backgrounds/X.md.meta",
-    "Backgrounds/McDonald's.md.meta",
-    "Actors/McDonald's.md.meta",
-    "Actors/X.md.meta",
-    "Tools/Actor Refinition.md.meta"
+    "Untitled 1.canvas"
   ]
 }

@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9e56cb97aba8e5",
+        "id": "657de943a46dd05f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7deea35b7cbe84",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5858760c32ec7268",
+            "id": "2f8c2a17adf15ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialogue Editor.md",
+                "file": "Outputs/Defaults/Dialogue Generation/2025-08-15T15-31-55.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialogue Editor"
+              "title": "2025-08-15T15-31-55"
             }
           }
         ]
@@ -173,43 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f7deea35b7cbe84",
+  "active": "2f8c2a17adf15ceb",
   "lastOpenFiles": [
-    "Dialogue Editor.md",
-    "5. Memory Generation.md",
-    "Characters/Livia.md",
-    "Dialogue Editor.md.meta",
-    "7. Sequel Generator.md",
-    "3. Editor Process.md",
-    "4. Dialogue Generation.md",
-    "6. Episode-to-Episode Continuity.md",
-    "Vibe Selection.md",
-    "Scene Layout.md",
-    "Sentiment Tagger.md",
-    "1AA. Scenario Generation.md",
-    "2. Behavior Generation.md",
-    "1DB. Scenario Generation.md",
-    "Characters/Porcia.md",
-    "Characters/Pete.md",
-    "Characters/Clodia.md",
-    "Characters/Gallia.md",
-    "Characters/Octavia.md",
-    "Characters/Calpurnia.md",
-    "Characters/Brutus.md",
-    "Characters/Balbus.md",
-    "Characters/Lepidus.md",
-    "Characters/Julius Caesar.md",
-    "Characters/Marc Antony.md",
-    "Characters/Nero.md",
-    "1BB. Scenario Generation.md.meta",
-    "1BA. Scenario Generation.md.meta",
-    "1AB. Scenario Generation.md.meta",
-    "1DB. Scenario Generation.md.meta",
-    "1CA. Scenario Generation.md.meta",
-    "1AA. Scenario Generation.md.meta",
-    "1CB. Scenario Generation.md.meta",
-    "7. Sequel Generator.md.meta",
-    "Untitled",
+    "Outputs/Defaults/Dialogue Generation/2025-08-15T14-43-38.md",
+    "Outputs/Defaults/Sentiment Tagger/2025-08-15T15-33-22.md",
+    "Outputs/Rome/2025-08-15T15-27-51.md",
+    "Outputs/Defaults/Sentiment Tagger/2025-08-15T15-33-07.md",
+    "Outputs/Rome/2025-08-15T14-39-41.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T14-42-15.md",
+    "Outputs/Defaults/Sentiment Tagger/2025-08-15T15-32-45.md",
+    "Outputs/Defaults/Sentiment Tagger/2025-08-15T15-32-32.md",
+    "Outputs/Defaults/Sentiment Tagger/2025-08-15T15-32-15.md",
+    "Outputs/Defaults/Dialogue Generation/2025-08-15T15-31-55.md",
+    "Outputs/Defaults/Editor Process/2025-08-15T15-31-24.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-30-50.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-30-22.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-29-56.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-29-23.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-28-51.md",
+    "Outputs/Defaults/Behavior Generation/2025-08-15T15-28-25.md",
+    "Outputs/Rome/Ideas/2025-08-15T15-27-40.md",
+    "Outputs/Defaults/Sequel Generation/2025-08-15T15-26-28.md",
+    "Outputs/Defaults/Sequel Generation",
+    "Outputs/Defaults/Vibe Selector/2025-08-15T15-26-01.md",
+    "Outputs/Defaults/Vibe Selector",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-25-56.md",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-25-34.md",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-25-16.md",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-24-59.md",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-24-42.md",
+    "Outputs/Defaults/Codex Generation/2025-08-15T15-24-18.md",
+    "Outputs/Defaults/Codex Generation",
+    "Outputs/Defaults/Memory Generation",
+    "Outputs/Defaults/Episode To Episode Continuity",
+    "Outputs/Defaults/Dialogue Editor Process",
+    "Outputs/Defaults/Sentiment Tagger",
+    "Outputs/Defaults/Dialogue Generation",
+    "Outputs/Defaults/Editor Process",
+    "Outputs/Defaults/Behavior Generation",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,5 +1,5 @@
 #### Amazon (he/him):  
-**Tags:** #southamerica #rainforest #technology #corporate #efficiency #innovation #logistics  
+**Tags:** #rainforest #technology #corporate #efficiency #innovation #logistics  
 **Links:** [[America]] [[Canada]] [[Mexico]] [[Britain]] [[France]] [[Germany]] [[Spain]] [[Italy]] [[India]] [[Japan]]
 
 ##### Who They Are in *polbots* (Reality Show Persona):  

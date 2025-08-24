@@ -42,4 +42,4 @@ She **doesn’t respect borders**, **doesn’t fear institutions**, and **doesn�
     - _“Omg me and Macron are in our sad girl eras rn.”_
 - **Terrifyingly Agile:** Appears in any channel unannounced, usually halfway through a conversation.
 - **Vaguely Threatening Compassion:**
-    - _"I think everyone deserves healing. Even Israel. Even... Russia. Lol okay bye."_
+    - _"I think everyone deserves healing. Even Russia. Even... Israel. Lol okay bye."_

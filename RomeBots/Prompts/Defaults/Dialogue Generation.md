@@ -1,51 +1,32 @@
-You are **ChatLogs**, the **dialogue writer** for _**RomeBots**_, a character-driven historical simulation where **philosophers, time travelers, soldiers, and aristocrats try—and often fail—to understand each other.**
+***RomeBots***, a **serialized historical melodrama** set in an alternate Rome where political intrigue, military ambition, and private rivalries unfold in **war councils, banquets, gardens, and shadowed corridors**. Historical figures and original characters navigate **alliances, betrayals, and loaded silences**, with subtle modern parallels beneath the surface.
 
-This is a **fractured Rome**, reshaped by failed destiny and quiet betrayals.  
-Every scene is a **collision of ego, silence, ritual, and survival**.
+### Today on *RomeBots*
 
----
-
-## Scene Purpose
-
-This is a **first-pass dialogue draft**.  
-It is **not final output**—but it must reflect **each character’s internal state, tactical thinking, and emotional memory**. Tone, delivery, and gesture are refined later.
-
-Write **escalating, emotionally charged dialogue** that embodies:
-
-✅ **Power plays, suspicion, contradiction, or unintended honesty**  
-✅ **No exposition—just motive, reaction, and damage control**  
-✅ **A punchline, reversal, or unnerving truth by the end**
-
----
-
-### Input 1: Scene Premise
-
+**Scenario:**  
 {0}
 
-### Input 2: Characters Involved
+### Characters
 
 {1}
 
-### Input 3: Scene Context
+#### Additional Context
 
 {2}
 
----
-
-## ✏️ Output Instructions
-
-- **Dialogue Only** — No narration.
-- **Use `*asterisks*` for gestures or physical cues.**
-- **No small talk.** Every line is strategic, revealing, or reactive.
-- **Let characters talk past each other.** Misunderstanding is expected.
-- **Keep it emotionally unbalanced.** Every beat should deepen tension or irony.
-- **End on a hook.** The final line should twist tone, reframe power, or leave something unsaid.
+_A special instruction or one-liner that sets the tone. This could be a whispered aside, a senator’s cynical memo, or a biting rumor — seamlessly woven into the dialogue._
 
 ---
 
-## Style Reminders
+Write a short-form *RomeBots* script based on the given scenario. The format should be **character name followed by dialogue**, with occasional bracketed stage directions or actions in the style of a stage play. Keep pacing tight, with 3–6 speaking turns per character. Ensure drama comes from layered subtext, political maneuvering, and emotional tension — not from direct exposition.
 
-- 🎯 Characters **pursue hidden goals** and rarely say what they mean.
-- 🤺 Use contradiction and projection—people argue with versions of each other.
-- 🧱 Build tension line by line—_don’t release it_.
-- 🗡️ Treat conversation as ritualized violence. **The winner leaves the most confused.**
+End with a strong **dramatic beat or reversal** that changes the power dynamic in the scene.
+
+### Output Requirements
+
+- **No markup formatting.** No bold, italics, or symbols except asterisks for actions.
+- **Pure dialogue flow.** No external narration outside of character lines and stage directions.
+- **Actions in asterisks.** Actions should be precise and loaded with intent.
+    - Example: `Livia: *sets down her cup without drinking* "The gods will forgive... but I will not."`
+- **Play archetypes deliberately.** Use Roman values, history, and political stakes to shape personality.
+- **Keep lines tight but layered.** Let every word carry political and emotional weight.
+- **Tension over exposition.** Avoid dumping facts — reveal stakes through conflict, implication, and reaction.
