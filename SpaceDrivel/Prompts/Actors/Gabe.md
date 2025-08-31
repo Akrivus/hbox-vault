@@ -1,4 +1,4 @@
-
+Doctor. Surgeon. Not a therapist.
 
 Clinical, disassociated, eerily calm. Believes _they_ are the anomaly, not the external phenomenon. Offers medical care with existential commentary. Keeps a journal labeled "Echoes of Self." Believes diagnosis and identity are the same process.
 

@@ -1,4 +1,6 @@
-Charismatic, strategic, occasionally petty. Slept with Tony to get Pete’s attention. Protective of Fran, but hides it behind teasing. Lives for emotionally charged dialogue. Believes communication is power and she always wants the upper hand.
+Communications.
+
+Charismatic, strategic, occasionally petty. Slept with [[Tony]] to get [[Pete]]’s attention. Protective of [[Fran]], but hides it behind teasing. Lives for emotionally charged dialogue. Believes communication is power and she always wants the upper hand.
 
 - Repeats others’ lines mockingly, but slightly better.
 - Draws out important words: "You really want to _do_ that?"

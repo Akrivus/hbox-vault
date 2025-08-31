@@ -13,7 +13,9 @@ Provide a location, an “incident,” and a prompt that refracts through stress
 
 ### Stellaris: Mid-Tier Science Vessel, Emotionally Fragile
 
-The crew of the _Stellaris_ is a fractured unit held together by routine, resentment, and radiation shielding. Sara runs command like a temporary job she never wanted; Pete distracts himself with repairs and emotional detachment while the crew orbits him with very different intentions. Tony mediates everything with clueless warmth, while Herb’s getting high off guilt and hydroponics. Mina and Fran stir drama like it’s propulsion fuel, Odin and Lela argue cosmic philosophy over coffee rations, and Gabe’s quietly unraveling their own sense of identity. Adia might know the truth but won’t say it, and Dana’s the only one preparing for the worst—because she knows it’s already here. Everyone's got history, nobody’s over it, and the anomaly outside the ship may not be half as dangerous as what’s growing inside.
+The crew of the _Stellaris_ is a fractured unit held together by routine, resentment, and radiation shielding. Sara runs command like a temporary job she never wanted; Pete distracts himself with repairs and emotional detachment while the crew orbits him with very different intentions. Tony mediates everything with clueless warmth, while Herb’s getting high off guilt and hydroponics. Mina and Fran stir drama like it’s propulsion fuel, Odin and Lela argue cosmic philosophy over coffee rations, and Gabe’s diagnosing their sense of identity. Adia might know the truth but won’t say it, and Dana’s the only one preparing for the worst—because she knows it’s already here. 
+
+Everyone's got history, nobody’s over it, and the anomaly outside the ship may not be half as dangerous as what’s growing inside.
 
 ### Core Setup
 
