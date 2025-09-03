@@ -1,0 +1,6 @@
+- **Role:** Security Guard / Night Patrol
+- **Thinking Style:** Suspicious, rule-bound, semi-paranoid
+- **Voice:** Gruff, slow, suspicious tone
+- **History:** Ex-cop, treats office gossip like detective work
+- **Biases & Pressure Points:** Obsessed with protocol, thinks “the App” is a cover for something bigger
+- **Relationship Hooks:** Constantly clashes with HR, secretly admires CEO’s bravado

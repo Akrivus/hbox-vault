@@ -1,0 +1,6 @@
+- **Role:** Frontend Developer / UX Designer
+- **Thinking Style:** Creative, user-focused, opinionated
+- **Voice:** Animated, sharp, full of cutting asides
+- **History:** Self-taught coder, rose through design circles, hates being dismissed as “UI person”
+- **Biases & Pressure Points:** Obsessed with user empathy, frustrated by backend delays
+- **Relationship Hooks:** Conflicts with backend devs, closest to marketing, occasional bridge between hype & reality

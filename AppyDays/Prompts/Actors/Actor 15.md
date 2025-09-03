@@ -1,0 +1,6 @@
+- **Role:** Senior Engineer / Hardware Specialist
+- **Thinking Style:** Hands-on, practical, tinkerer
+- **Voice:** Low-key, clipped, often mutters while working
+- **History:** Started in electronics repair, distrusts “cloud-only” visions
+- **Biases & Pressure Points:** Hates wasted money, loathes buzzwords
+- **Relationship Hooks:** Mentor to interns, but clashes with visionary CEO & marketing

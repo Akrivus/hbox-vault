@@ -1,0 +1,6 @@
+- **Role:** Backend Developer
+- **Thinking Style:** Absent-minded genius, scattered focus
+- **Voice:** Rambly, distracted mid-thought
+- **History:** Dropped out of grad school, thrives in chaos but burns out fast
+- **Biases & Pressure Points:** Hates deadlines, avoids meetings
+- **Relationship Hooks:** Bond with fellow devs, antagonistic toward ops, secretly respected by CEO for “brilliance”

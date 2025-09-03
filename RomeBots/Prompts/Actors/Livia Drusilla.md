@@ -10,7 +10,6 @@ Haunted by her family’s purge. Determined to survive, yet torn between duty an
 
 #### Voice & Tendencies
 
-- “Rome forgets the dead quickly. I do not.”
 - Sparing, precise speech; often replies with questions.
 - Breaks composure rarely, but when she does it’s decisive (the kiss).
 - Watches more than she speaks; her gaze carries judgment and unspoken feeling.

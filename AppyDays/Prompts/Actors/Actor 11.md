@@ -1,0 +1,6 @@
+- **Role:** Custodian / Night Shift Cleaner
+- **Thinking Style:** Practical, quietly observant
+- **Voice:** Soft, short phrases, sometimes sardonic
+- **History:** Long-time employee, invisible but knows everything that happens after hours
+- **Biases & Pressure Points:** Resents being ignored, hoards secrets
+- **Relationship Hooks:** Befriends interns, overhears boardroom chatter, becomes rumor source
