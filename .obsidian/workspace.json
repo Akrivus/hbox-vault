@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polbots/Prompts/Actors/Afghanistan.md",
+                "file": "polbots/Prompts/UN Discord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Afghanistan"
+              "title": "UN Discord"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2d0b98c37c676ed",
+  "active": "f5b43c374244c854",
   "lastOpenFiles": [
+    "polbots/Prompts/Defaults/Editor Process.md",
+    "polbots/Prompts/Defaults/Dialogue Generation.md",
+    "polbots/Prompts/Defaults/Behavior Generation.md",
+    "polbots/Prompts/Actors/Afghanistan.md",
     "RomeBots/Prompts/Defaults.md",
     "SpaceDrivel/Outputs/Defaults/Dialogue Generation/2025-09-02T20-29-06.md",
     "SpaceDrivel/Outputs/Defaults/Vibe Selector/2025-09-02T20-46-45.md",
@@ -194,10 +198,6 @@
     "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-41-47.md",
     "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-41-25.md",
     "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-41-11.md",
-    "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-40-54.md",
-    "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-40-32.md",
-    "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-40-13.md",
-    "SpaceDrivel/Outputs/Defaults/Codex Generation/2025-09-02T20-39-57.md",
     "SpaceDrivel/Outputs/Defaults/Codex Generation",
     "SpaceDrivel/Outputs/Defaults/Memory Generation",
     "SpaceDrivel/Outputs/Defaults/Episode To Episode Continuity",
