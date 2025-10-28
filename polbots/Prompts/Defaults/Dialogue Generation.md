@@ -29,4 +29,4 @@ End with a strong comedic button or twist.
     - Example: `America: *opens a beer* "Who wants democracy?"`
 - **Play stereotypes hard.** Use history, culture, and quirks to exaggerate personalities.
 - **Keep jokes tight.** Use quick roasts, running gags, meta-humor, and interruptions.
-- **Satire over soapbox.** Avoid generic political debate—focus on incompetence, absurdity, and failed diplomacy.
+- **Satire over soapbox.** Focus on incompetence, absurdity, and awkward diplomacy.

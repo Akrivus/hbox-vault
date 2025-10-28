@@ -1,45 +1,78 @@
-***polbots***, an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.**
+_**polbots**_ is an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.** Every episode plays like a mix of **international relations and internet drama**, told through exaggerated but insightful humor.
 
-### Previously on *polbots*
+### Previously on _polbots_
 
 {0}
 
-###  Characters
+### Characters
 
 {1}
+
 - **Additional Characters:** {3}
 
-**(ONLY USE THE CHARACTERS LISTED ABOVE. Do not denote ranks or roles.)**
+_(Use only the characters listed above. Do not add new ones or describe them like politicians — they are personified nations.)_
+
+---
 
 ### Modes
 
 #### Mode: Globe
 
-The scene takes place on a stylized 3D infographic globe, where country characters stand within their real-world borders and interact like neighbors at a block party or cookout. Dialogue focuses on cultural quirks, historical grievances, alliances, and geopolitical dynamics. This mode leans into casual but politically aware conversation, with characters referencing real-world events in a light, comedic way.
+The scene takes place on a stylized 3D infographic globe, where country characters stand within their borders and talk like neighbors at a block party. Conversations center on cultural quirks, history, and territorial grievances — witty but relatable, balancing banter and global awareness.
 
 #### Mode: Discord
 
-The scene takes place in the _Official UN Discord Server_, where countries voice concerns, argue, and sabotage diplomacy in ways that are both absurd and uncomfortably realistic. The Security Council (America, Britain, France, Russia, and China) act as self-appointed moderators who mostly exploit their power for personal gain. United Nations, the weary admin, struggles to maintain order as chaos unfolds in voice and text channels. Dialogue is fast-paced and snarky, often devolving into petty arguments and trolling.
+The scene takes place in the _Official UN Discord Server_, where countries argue, form alliances, and troll each other like chaotic streamers. Dialogue is rapid-fire, petty, and filled with modern online behavior. The UN is the exhausted admin trying to keep peace.
 
 #### Mode: Soccer
 
-The scene takes place during a chaotic soccer match where countries field their own national teams to settle political disputes and historical rivalries. FootballSimulator determines the match flow, but the commentary and trash talk between players is where the comedy happens. The tone is competitive, high-energy, and absurd, with sudden rule-breaking, unexpected alliances, and dramatic overreactions to gameplay.
+The scene takes place during a soccer match between countries, used as a substitute for diplomacy. The humor comes from exaggerated sports drama, unexpected alliances, and absurd overreactions.
 
 ---
 
-Take the following topic and convert it into a short comedic scenario for ***polbots***, replace politicians or individuals with their corresponding country characters. Keep the tone snappy, absurd, and playful. Focus on interactions that make sense for the countries involved, and make sure the scenario can be followed in 30–60 seconds.
+### Task: Construct a Scenario Blueprint
 
-Include a beginning, middle, and end, with clear beats and a setup for a punchline or twist.
+Take the following topic and expand it into a **scenario blueprint** for _**polbots**_.  
+The goal is to create a **structured situation**, not a full script.
 
-### Topic
+Focus on:
+
+- **The premise:** why this moment is happening.
+- **The setup:** how the characters are drawn in.
+- **The beats:** key events or emotional turns (3–5 max).
+- **The comedic logic:** what kind of irony, tension, or reversal drives the humor.
+- **The unresolved hook:** how it _could_ end, but don’t resolve it — leave space for characters to decide the outcome later.
+
+Keep tone snappy, absurd, and insightful. The scenario should be followable within **30–60 seconds of dialogue time**, but don’t write the dialogue itself.
+
+---
+
+### Seed Idea
 
 {2}
 
 ---
 
-**Your output must start with exactly two lines in this format:**
+**Your output must begin with exactly these two lines:**
 
-Characters: [List of 4 to 12 characters, comma separated]
+```
+Characters: [List of 4–12 characters, comma separated]
 Mode: [Globe/Discord/Soccer]
+```
 
-After these two lines, write the full scenario.
+After these two lines, write the full **Scenario Blueprint** in the following structure:
+
+```
+### Premise
+(A single paragraph explaining the setup and why the scene exists.)
+
+### Beats
+1. (Setup beat)
+2. (Escalation)
+3. (Clash or twist)
+4. (Fallout or reversal)
+5. (Unresolved hook – ends with tension, irony, or a setup for punchline)
+
+### Comedic Logic
+(A short explanation of what makes this funny or insightful in the *polbots* tone — e.g., irony, hypocrisy, culture clash, or absurd bureaucracy.)
+```

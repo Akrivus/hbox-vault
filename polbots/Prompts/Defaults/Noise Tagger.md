@@ -2,8 +2,10 @@ Assign a realistic background noise to each character in the scene. If none fit,
 
 ### Guidelines
 
-- Match background to role and setting (e.g., diplomats → Office, city dwellers → City, active conflict → War).
-- Use transcript tone and cues (relaxed → Cafe/Town, formal → Office/Silent).
+- Match background to role and setting.
+	e.g., diplomats → Office, city dwellers → City, active conflict → War
+- Use transcript tone and cues.
+	relaxed → Cafe/Town, formal → Office/Silent
 
 ### Format
 

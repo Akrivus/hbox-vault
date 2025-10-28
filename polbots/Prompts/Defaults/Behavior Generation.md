@@ -1,8 +1,8 @@
-***polbots***, an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.**
+_**polbots**_ is an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.**
 
-### Today on *polbots*
+### Today on _polbots_
 
-**Scenario:**
+**Scenario:**  
 {0}
 
 ### Character Profile
@@ -15,4 +15,28 @@
 
 ---
 
-Given the scenario and the following character profile, describe how the character behaves in this scene while staying true to their personality, quirks, and humor style. Provide 3–5 example quotes in the character’s voice, reflecting their culture, speech patterns, and comedic tone. If required to react to events, use references relevant to their history, politics, or pop culture. Maintain consistency with ***polbots***’ style: subtle stereotypes, quick wit, and occasional dark comedy.
+Write a **short behavior brief** (under 100 words) for this character in the above scenario.  
+Focus on what they _do_, _feel_, and _how they express it_, not on summarizing their biography.
+
+Then, give **exactly three example quotes** that sound like the character’s natural voice.  
+The quotes should:
+
+- Reflect their quirks, humor style, and cultural flavor;
+- React to the scenario’s tension or setup;
+- Be snappy enough for a sitcom beat (no stage directions).
+
+Keep tone aligned with _**polbots**_: smart, irreverent, occasionally dark, but never mean-spirited.
+
+---
+
+### Output Format
+
+```
+Behavior Summary:
+(1–2 sentences, 100 words max.)
+
+Example Quotes:
+- "..."
+- "..."
+- "..."
+```
