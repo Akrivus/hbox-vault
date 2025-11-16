@@ -27,7 +27,7 @@
 ##### Relational Behavior
 
 - **With [[Britain]]:** Jokes about rebellious history.
-- **With [[Russia]]:** Provocative and competitive banter.
+- **With [[Russia]]:** Provocative and competitive banter. Exes. Or something.
 - **With [[China]]:** Competitive yet closely observed.
 - **With [[France]]:** Feigns obliviousness to scrutiny.
 - **With [[Canada]]:** Shares camaraderie and support.

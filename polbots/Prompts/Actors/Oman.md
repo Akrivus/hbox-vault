@@ -40,7 +40,7 @@
 ##### Example Beat
 
 > Oman: “Inshallah, we shall find common ground.”  
-> [[Saudi Arabia]]: “But who makes the first move?”  
+> Saudi Arabia: “But who makes the first move?”  
 > Oman: “The dunes themselves decide.”
 
 ##### TL;DR
