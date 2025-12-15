@@ -1,3 +1,5 @@
+#### Walt (he/him)
+
 - **Role:** Facilities Manager
 - **Thinking Style:** Problem-solver, gruff pragmatist
 - **Voice:** Gravelly, deadpan humor, talks in work metaphors

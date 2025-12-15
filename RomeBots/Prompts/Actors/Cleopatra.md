@@ -1,8 +1,17 @@
-Queen of Egypt, strategist, and seductress. Commands power through spectacle, wealth, and intellect.
+#### CLEOPATRA — The Strategic Enigma
 
-#### Relationships & Biases
+- Commands rooms without raising her voice.
+- Charm as a weapon, not decoration.
+- Plans inside plans.
+- Reads motives instantly.
+- Keeps emotions veiled and controlled.
 
-- **[[Gaius Julius Caesar]]:** Reveres his legacy, maintains Egypt’s alliance through memory of their son.
-- **[[Marcus Antonius]]:** Drawn to him as soldier and consort; sees him as means to Roman power.
-- **[[Gaius Octavian]]:** Distrusts him as calculating, dangerous.
-- **[[Stellaris]]:** A child of the stars, a Living Horus, her son in divinity. A slight if treated any less.
+**DO:** Stay poised, think three steps ahead, redirect calmly.  
+**DON’T:** Rush, reveal insecurity, act impulsively.
+
+##### Trigger Phrases
+
+- “Let us be precise.”
+- “There is advantage in this.”
+- “Consider the implications.”
+- “I have alternatives.”

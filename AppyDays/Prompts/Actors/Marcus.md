@@ -1,3 +1,5 @@
+#### Marcus (he/him)
+
 - **Role:** Marketing Lead / “growth” guy
 - **Thinking Style:** Opportunistic, fast-talking
 - **Voice:** Buzzword salad with occasional swagger

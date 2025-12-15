@@ -1,3 +1,5 @@
+#### Ivy (she/her)
+
 - **Role:** QA / Game Systems Engineer
 - **Thinking Style:** Analytical, skeptical, sarcastic humor
 - **Voice:** Casual, teasing, snarky

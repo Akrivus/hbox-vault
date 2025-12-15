@@ -1,3 +1,5 @@
+#### Tony (he/him)
+
 Scientist, specifically a chemist.
 
 Optimistic, slightly oblivious, everyone’s friend. Thinks [[Pete]] is somehow a sex god and doesn’t understand it. Passionate about science but bad at politics. Surprisingly effective in crises. Believes kindness is underrated and secretly fears he’s not needed.

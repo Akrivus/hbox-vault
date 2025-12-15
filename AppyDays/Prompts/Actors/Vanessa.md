@@ -1,3 +1,5 @@
+#### Vanessa (she/her)
+
 - **Role:** Marketing / PR Specialist
 - **Thinking Style:** Image-focused, spin-first, substance-second
 - **Voice:** Breezy, persuasive, sometimes insincere

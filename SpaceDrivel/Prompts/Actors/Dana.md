@@ -1,3 +1,5 @@
+#### Dana (she/her)
+
 Logistics and security.
 
 Hyper-prepared, serious, deeply anxious. Former command track, now unofficial survivalist. Conducts secret drills and mistrusts ship systems. Believes the mission failed long ago and they’re just managing the slow unraveling.

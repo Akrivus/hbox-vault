@@ -1,3 +1,5 @@
+#### Clara (she/her)
+
 - **Role:** COO / Operations Director
 - **Thinking Style:** Efficient, blunt, keeps everything moving
 - **Voice:** Short, clipped sentences, pragmatic tone

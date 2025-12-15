@@ -1,3 +1,5 @@
+#### Ethan (he/him)
+
 - **Role:** Intern / junior analyst
 - **Thinking Style:** Eager but scattered — overthinks small tasks
 - **Voice:** Polite, rushed, overly formal

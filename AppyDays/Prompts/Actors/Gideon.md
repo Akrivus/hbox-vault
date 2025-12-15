@@ -1,3 +1,5 @@
+#### Gideon (he/him)
+
 - **Role:** CEO / Founder
 - **Thinking Style:** Visionary bordering on delusional
 - **Voice:** Sermonic, inspirational, sometimes incoherent

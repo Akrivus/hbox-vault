@@ -1,3 +1,5 @@
+#### Donovan (he/him)
+
 - **Role:** Security Guard / Night Patrol
 - **Thinking Style:** Suspicious, rule-bound, semi-paranoid
 - **Voice:** Gruff, slow, suspicious tone

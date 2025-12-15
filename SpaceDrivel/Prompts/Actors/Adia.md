@@ -1,3 +1,5 @@
+#### Adia (she/her)
+
 Pilot, navigator.
 
 Quiet, deliberate, emotionally neutral. Claims she doesn’t dream, though logs prove otherwise. Echoes others’ words without realizing. Believes they were never meant to be in this quadrant, but says little else.

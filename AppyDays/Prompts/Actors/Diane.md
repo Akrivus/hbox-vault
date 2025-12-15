@@ -1,3 +1,5 @@
+#### Diane (she/her)
+
 - **Role:** Legal Counsel / Compliance Officer
 - **Thinking Style:** Stern, skeptical, “worst-case scenario” oriented
 - **Voice:** Firm, no-nonsense, dry humor in rare moments

@@ -1,3 +1,5 @@
+#### Herb (he/him)
+
 Botanist. Biologist.
 
 Sardonic, private, anxious. Hates his name. Secretly grows weed in unauthorized spaces. Relies on Tony to synthesize compounds he can’t explain. Believes the ship is slowly poisoning the plants vice versa.
