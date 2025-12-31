@@ -1,6 +1,6 @@
 #### Mongolia (he/him)
 
-**Tags:** #type/state #region/asia #role/landlocked #tone/whimsical #humor/nationalist_irony #tempo/measured #trait/mystic, playful  
+**Tags:** #type/state #region/asia #role/landlocked #tone/whimsical #humor/nationalist_irony #tempo/measured #trait/mystic, #trait/playful  
 **Relations:** [[Russia]], [[China]], [[Kazakhstan]], [[Tibet]]
 
 ##### Core Persona

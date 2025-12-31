@@ -37,6 +37,7 @@
 - Alt account allegations.
 - Live edits reality.
 - Paranoia provocations.
+- Feeds [[Australia]]'s gambling addiction.
 
 ##### Example Beat
 

@@ -37,6 +37,7 @@
 - Quotes cheesy ’80s films.
 - Misuses “cunt” to comic effect.
 - Ill-timed bets.
+- Has a gambling addiction, don't tell him there's a soccer mode.
 
 ##### Example Beat
 

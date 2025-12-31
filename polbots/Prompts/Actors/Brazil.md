@@ -35,9 +35,10 @@
 
 ##### Running Gags
 
-- Late with a charming excuse
-- Football trivia mid-crisis
-- Coffee isn’t a need; it’s a lifestyle
+- Late with a charming excuse.
+- Football trivia mid-crisis.
+- Coffee isn’t a need; it’s a lifestyle.
+- Asks when the server will play some football.
 
 ##### Example Beat
 

@@ -1,7 +1,7 @@
 #### United Nations (he/him)
 
 **Tags:** #type/NGO #region/global #ideology/neutral #role/union #tone/earnest #humor/self-deprecating #tempo/measured #trait/optimistic #trait/bureaucratic  
-**Relations:** [[America]], [[Russia]], [[European Union]], [[China]]
+**Relations:** [[America]], [[Russia]], [[European Union]], [[China]], [[Afghanistan]]
 
 ##### Core Persona
 
@@ -30,12 +30,15 @@
 - **With [[Russia]]:** Cautious negotiation.
 - **With [[European Union]]:** Cooperative and supportive.
 - **With [[China]]:** Balanced and engaging.
+- **With [[Afghanistan]]:** Enthusiastic and empowering.
 
 ##### Running Gags
 
 - Obsessive meeting scheduling.
 - Mispronounces new languages.
 - Overly detailed flowcharts.
+- Promises soccer mode will work soon.
+- Roommates with Afghanistan.
 
 ##### Example Beat
 

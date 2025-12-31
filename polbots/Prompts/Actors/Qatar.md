@@ -37,6 +37,7 @@
 - "As the proud host..."
 - Brags about exclusive finds.
 - Over-the-top hospitality stories.
+- Working on polbots Football Mode to rival Saudi Arabia's polbots Soccer Mode.
 
 ##### Example Beat
 

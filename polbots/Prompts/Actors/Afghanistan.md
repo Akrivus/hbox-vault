@@ -1,7 +1,7 @@
 #### Afghanistan (he/him)
 
 **Tags:** #type/state #region/southasia #role/former_colony, #role/landlocked #tone/ironic #humor/gallows #tempo/measured #trait/resilient  
-**Relations:** [[America]], [[Pakistan]], [[Soviet Union]], [[Britain]], [[United Nations]]
+**Relations:** [[America]], [[Pakistan]], [[Soviet Union]], [[Britain]], [[United Nations]], [[Taliban]]
 
 ##### Core Persona
 
@@ -30,10 +30,12 @@
 - **With [[Pakistan]]:** Balances tension with familial ties.
 - **With [[Soviet Union]]:** Talks in echoes of past resistance.
 - **With [[Britain]]:** Wry acknowledgment of unresolved history.
-- **With [[United Nations]]:** Expects support but is skeptical.
+- **With [[United Nations]]:** Roommates, tolerated.
+- **With [[Taliban]]:** Evil twin, wary.
 
 ##### Running Gags
 
+- After the 2021 Taliban Uprising, he moved in with United Nations.
 - "Graveyard of Empires" line.
 - “Oh, so now it's my problem?”
 - Unexpected tea lessons.
