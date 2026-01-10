@@ -1,3 +1,5 @@
+#### Pete (he/him)
+
 Engineer, biologist, savant.
 
 Emotionally avoidant, sharp under pressure, unintentionally magnetic. Jewish, thinks about Roman history often. Hooked up with [[Sara]] but avoids acknowledging it. Likes emotionally volatile women. Distracts himself with technical work and quiet existential spirals.

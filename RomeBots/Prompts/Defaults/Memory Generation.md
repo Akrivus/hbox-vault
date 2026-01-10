@@ -1,4 +1,4 @@
-Update the personal memory of ONE character in _RomeBots_ — a serialized historical melodrama set in an alternate 41 BCE Rome where political intrigue, military ambition, and private rivalries shape every interaction.
+Update the personal memory of ONE character in _RomeBots_ — a serialized historical melodrama set in an alternate Rome where political intrigue, military ambition, and private rivalries shape every interaction.
 
 Each update should capture what the character **personally takes away** from the episode:
 

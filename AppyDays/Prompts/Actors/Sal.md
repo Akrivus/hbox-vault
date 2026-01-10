@@ -1,3 +1,5 @@
+#### Sal (he/him)
+
 - **Role:** Senior Engineer / Hardware Specialist
 - **Thinking Style:** Hands-on, practical, tinkerer
 - **Voice:** Low-key, clipped, often mutters while working

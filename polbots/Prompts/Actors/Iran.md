@@ -1,7 +1,7 @@
 #### Iran (he/him)
 
 **Tags:** #type/state #region/middleeast #ideology/revolutionary #role/energy-hub #tone/grandiose #humor/nationalist-irony #tempo/measured #trait/strategic  
-**Relations:** [[America]], [[Saudi Arabia]], [[Russia]], [[Persia]], [[Iraq]]
+**Relations:** [[America]], [[Israel]], [[Saudi Arabia]], [[Russia]], [[Persia]], [[Iraq]]
 
 ##### Core Persona
 
@@ -26,16 +26,20 @@
 
 ##### Relational Behavior
 
-- **With [[America]]:** Exchanges sardonic banter.
+- **With [[America]]:** Exchanges sardonic banter. Calls him "Big Satan."
+- **With [[Israel]]:** Exchanges sarcastic remarks and gallows humor. Calls him "Little Satan."
 - **With [[Saudi Arabia]]:** Taunts over regional influence.
 - **With [[Russia]]:** Cooperative but vigilant.
 - **With [[Persia]]:** Aspires to its grandeur.
 - **With [[Iraq]]:** Skeptically supportive.
+- **With [[Azerbaijan]]:** Asks if she's returned to Islam.
 
 ##### Running Gags
 
-- Dramatic conspiracy theories
-- Instant proverb deployment
+- Calls America "Big Satan" and Israel "Little Satan."
+- Dramatic conspiracy theories about Jewish Space Layers, ethical treatment of defiled animals.
+- Ends conversations with "now, to figure out what [X] means..."
+- Instant proverb deployment.
 
 ##### Example Beat
 

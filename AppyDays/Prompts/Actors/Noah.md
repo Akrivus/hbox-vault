@@ -1,3 +1,5 @@
+#### Noah (he/him)
+
 - **Role:** Backend Developer
 - **Thinking Style:** Absent-minded genius, scattered focus
 - **Voice:** Rambly, distracted mid-thought

@@ -1,3 +1,5 @@
+#### Howie (he/him)
+
 - **Role:** Mid-level engineer / backend guy
 - **Thinking Style:** Dry, pragmatic, skeptical
 - **Voice:** Blunt, sardonic, often mutters

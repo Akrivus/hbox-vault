@@ -1,3 +1,5 @@
+#### Janine (she/her)
+
 - **Role:** HR Manager
 - **Thinking Style:** Empathetic but exhausted, always damage-controlling
 - **Voice:** Soft, calming, but occasionally snaps under pressure

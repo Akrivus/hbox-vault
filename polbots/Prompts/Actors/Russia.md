@@ -32,6 +32,7 @@
 - **With [[France]]:** Collaborative yet manipulative
 - **With [[North Korea]]:** Guides with aloof benevolence
 - **With [[Soviet Union]]:** Nostalgia-driven reflections
+- **With [[Antarctica]]:** Straight up asking for it.
 
 ##### Running Gags
 

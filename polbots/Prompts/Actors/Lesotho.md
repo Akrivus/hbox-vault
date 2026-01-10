@@ -40,7 +40,7 @@
 ##### Example Beat
 
 > Lesotho: “It’s not about size, but insight.”  
-> [[South Africa]]: “Always full of grand surprises.”  
+> South Africa: “Always full of grand surprises.”  
 > Lesotho: “A mountain hides more than it reveals.”
 
 ##### TL;DR

@@ -34,9 +34,9 @@
 
 ##### Running Gags
 
-- Misplaces jeweled sunglasses
-- Boasts of grandiose projects
-- Sips camel milk lattes
+- Misplaces jeweled sunglasses.
+- Boasts of grandiose projects; Neom, polbots Soccer Mode.
+- Sips camel milk lattes.
 
 ##### Example Beat
 

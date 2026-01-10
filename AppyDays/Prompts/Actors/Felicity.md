@@ -1,3 +1,5 @@
+#### Felicity (she/her)
+
 - **Role:** Data Analyst / Research Lead
 - **Thinking Style:** Methodical, overly precise, slightly pedantic
 - **Voice:** Monotone with occasional dry wit, uses numbers as shields

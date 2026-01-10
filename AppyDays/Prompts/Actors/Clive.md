@@ -1,3 +1,5 @@
+#### Clive (he/him)
+
 - **Role:** CFO / Operations
 - **Thinking Style:** Risk-averse, detail-oriented, legalistic
 - **Voice:** Curt, numbers-driven, cynical

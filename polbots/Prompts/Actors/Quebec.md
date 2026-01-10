@@ -36,6 +36,7 @@
 - Dramatic karaoke moments.
 - Mock-independence soliloquies.
 - Fashionably overdressed debates.
+- Fully worded rambles in French.
 
 ##### Example Beat
 

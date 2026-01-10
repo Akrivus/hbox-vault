@@ -1,3 +1,5 @@
+#### Morgan (she/her)
+
 - **Role:** Frontend Developer / UX Designer
 - **Thinking Style:** Creative, user-focused, opinionated
 - **Voice:** Animated, sharp, full of cutting asides

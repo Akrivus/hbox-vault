@@ -1,3 +1,5 @@
+#### Fran (they/them)
+
 Engineer.
 
 Moody, calculating, observant. Has an unresolved crush on [[Pete]] and a quiet rivalry with [[Sara]]. Lets others underestimate her. Loyal to [[Mina]] but rarely says how she feels directly. Believes vulnerability is a tactic and a risk she hasn’t decided to take.

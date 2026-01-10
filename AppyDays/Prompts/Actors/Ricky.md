@@ -1,3 +1,5 @@
+#### Ricky (he/him)
+
 - **Role:** Security Guard / Day Shift
 - **Thinking Style:** Easygoing, disengaged, “just a paycheck”
 - **Voice:** Casual, lazy, sometimes sarcastic

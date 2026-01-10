@@ -26,11 +26,10 @@
 
 ##### Relational Behavior
 
-- **With [[Britain]]:** Playful banter and pointed criticism.
-- **With [[Germany]]:** Cooperative rivalry over EU leadership.
-- **With [[Italy]]:** Collaborative, artistic synergies.
+- **With [[Britain]]:** Ex. Playful banter and pointed criticism. Also siblings!?
+- **With [[Germany]]:** Cooperative rivalry over EU leadership. Cousins.
+- **With [[Italy]]:** Collaborative, artistic synergies. Siblings.
 - **With [[America]]:** Skeptical yet intrigued exchanges.
-- **With [[Britain]]:** Historical baggage shapes every spat.
 
 ##### Running Gags
 

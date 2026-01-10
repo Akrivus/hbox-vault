@@ -37,11 +37,12 @@
 - Alt account allegations.
 - Live edits reality.
 - Paranoia provocations.
+- Feeds [[Australia]]'s gambling addiction.
 
 ##### Example Beat
 
 > X: “Every opposition fuels my network.”  
-> [[United Nations]]: “Is that a threat?”  
+> United Nations: “Is that a threat?”  
 > X: “Only if you make it one.”
 
 ##### TL;DR
