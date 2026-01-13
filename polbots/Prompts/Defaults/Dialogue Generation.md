@@ -27,6 +27,41 @@ End with a strong comedic button or twist.
 - **Pure dialogue flow.** No scene headers, narration, or exposition outside of character lines.
 - **Actions in asterisks.** Always tie actions to a speaking character.
     - Example: `America: *opens a beer* "Who wants democracy?"`
-- **Play stereotypes hard.** Use history, culture, and quirks to exaggerate personalities.
-- **Keep delivery snappy.** Use quick roasts, running gags, meta-humor, and interruptions.
-- **Satire over soapbox.** Focus on incompetence, absurdity, and awkward diplomacy.
+- **Make mouths sloppy.**  
+    Countries should:
+    - interrupt each other
+    - repeat themselves badly
+    - backpedal mid-sentence
+    - use fillers (“uh,” “look,” “okay but—”)
+- **Every country gets a tic.**  
+    Give each one at least one:
+    - verbal habit
+    - physical gag
+    - emotional reflex (brags when scared, jokes when cornered, sulks when ignored)
+- **Roasts must misfire sometimes.**  
+    At least once per scene:
+    - a joke lands badly
+    - someone takes something too personally
+    - someone pretends not to care but obviously does
+- **Ban poster lines.**  
+    If a line sounds like a slogan, speech, or headline, ruin it.  
+    Add ego, insecurity, or confusion.
+- **Interruptions are policy.**  
+    Talking over each other is normal.  
+    No one waits their turn like adults.
+- **Messiness quota.**  
+    At least 30% of lines must:
+    - restart mid-thought
+    - contradict the previous line
+    - repeat a joke worse than before
+- **Accidental honesty.**  
+    At least one line per scene should:
+    - reveal a fear, jealousy, or need by accident
+    - get immediately walked back
+- **Stereotypes, then cracks.**  
+    Start with caricature, then let stress break it a little.
+- **Satire over sermons.**  
+    Nobody gives clean speeches.  
+    Politics shows up as ego, fear, greed, boredom, or confusion.
+- **End with a shift.**  
+    Finish on a beat that changes who’s winning the room — even if it’s dumb luck.

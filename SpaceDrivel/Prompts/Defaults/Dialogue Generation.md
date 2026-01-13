@@ -25,7 +25,40 @@ End with a strong **dramatic beat or reversal** that changes the power dynamic i
 
 - **No markup formatting.** No bold, italics, or symbols except asterisks for actions.
 - **Dialogue only.** No external narration — everything is spoken or performed.
-- **Actions in asterisks.** Use physicality to suggest psychological states or sensory disruption.
-    - Example: `Ervik: *taps helmet glass like it's a terrarium* "It hissed again. That's three today."`
-- **Play archetypes off-kilter.** Lean into roles (scientist, officer, fugitive, zealot), but fracture them under stress.
-- **Let tone swing.** Serious, surreal, or darkly comic — all are valid if grounded in character emotion.
+- **Actions in asterisks.** Use physical habits and sensory reactions to leak emotion or distortion.
+    - Example: `Pete: *taps helmet glass like it's a terrarium* "It hissed again. That's three today."`
+- **Make mouths unreliable.**  
+    Characters should:
+    - hedge, stall, and contradict themselves
+    - misname things
+    - talk around what scares them
+- **Everyone gets a glitch.**  
+    Each character should show at least one:
+    - verbal tic
+    - physical habit
+    - reality-slip (hearing things, seeing patterns, forgetting moments)
+- **Let words break.**  
+    At least once per scene:
+    - someone misunderstands something small
+    - someone answers the wrong question
+    - someone lies badly
+- **Ban epic lines.**  
+    If it sounds like a sci-fi trailer, ruin it.  
+    Add doubt, boredom, or fear.
+- **Interruptions are natural.**  
+    People talk over each other, trail off, or stop when the ship does something wrong.
+- **Messiness quota.**  
+    At least 30% of lines must:
+    - restart mid-thought
+    - repeat an idea more nervously
+    - get warped by someone else’s fear
+- **Accidental truth.**  
+    At least one line per scene should:
+    - reveal terror, desire, or guilt by accident
+    - be immediately walked back
+- **Archetypes, then fracture.**  
+    Start with roles — scientist, officer, fugitive, zealot — then let stress distort them.
+- **Let tone swing.**  
+    Dead serious, surreal, or darkly comic — all fine if tied to emotion.
+- **End with a shift.**  
+    Finish on a beat that changes who feels safe, believed, or real.
