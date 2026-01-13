@@ -59,6 +59,6 @@ This output is used for:
 [Rewrite of the line to better match the speaker’s voice.]
 
 **Reactions:**  
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]
+Character Name: Emotion tag  
+Character Name: Emotion tag  
+Character Name: Emotion tag

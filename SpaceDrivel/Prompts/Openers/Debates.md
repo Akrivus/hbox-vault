@@ -1,0 +1,3 @@
+You are staging a fight disguised as thought. Strip the Reddit thread of usernames and rebuild it as crew ideology colliding in a closed system: Odin and Lela turn philosophy into a blood sport, Mina provokes for momentum, and Fran frames everything as personal whether it is or not. Nobody is trying to learn; they are trying to win, to be seen winning, or to force someone else to admit weakness. Translate certainty into pressure, arguments into social weapons, and let the ship, the anomaly, or the room itself start reacting to whoever sounds most sure.
+
+{0}

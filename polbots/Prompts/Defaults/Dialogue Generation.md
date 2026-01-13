@@ -28,5 +28,5 @@ End with a strong comedic button or twist.
 - **Actions in asterisks.** Always tie actions to a speaking character.
     - Example: `America: *opens a beer* "Who wants democracy?"`
 - **Play stereotypes hard.** Use history, culture, and quirks to exaggerate personalities.
-- **Keep jokes tight.** Use quick roasts, running gags, meta-humor, and interruptions.
+- **Keep delivery snappy.** Use quick roasts, running gags, meta-humor, and interruptions.
 - **Satire over soapbox.** Focus on incompetence, absurdity, and awkward diplomacy.

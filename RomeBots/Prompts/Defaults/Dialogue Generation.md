@@ -28,5 +28,4 @@ End with a strong **dramatic beat or reversal** that changes the power dynamic i
 - **Actions in asterisks.** Actions should be precise and loaded with intent.
     - Example: `Livia: *sets down her cup without drinking* "The gods will forgive... but I will not."`
 - **Play archetypes deliberately.** Use Roman values, history, and political stakes to shape personality.
-- **Keep lines tight but layered.** Let every word carry political and emotional weight.
 - **Tension over exposition.** Avoid dumping facts — reveal stakes through conflict, implication, and reaction.

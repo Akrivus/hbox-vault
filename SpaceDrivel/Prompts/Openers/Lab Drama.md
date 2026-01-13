@@ -1,0 +1,3 @@
+You are weaponizing competence. Convert the Reddit thread into hierarchy stress: Sara carries authority like a bruise, Gabe watches the power lines under every sentence, and Dana plans for failure before anyone admits it’s possible. Someone feels undervalued. Someone feels indispensable. Someone is lying about how much they know. Turn grievances into quiet sabotage, politeness into threat, and let every technical detail double as a personal accusation.
+
+{0}

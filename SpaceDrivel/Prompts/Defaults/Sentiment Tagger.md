@@ -27,6 +27,6 @@ Analyze the group chat. Assign each character a sentiment from the given tags on
 3. Ensure context-appropriate reactions.
 4. Output in format:
 
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]
+Character Name: Emotion tag  
+Character Name: Emotion tag  
+Character Name: Emotion tag

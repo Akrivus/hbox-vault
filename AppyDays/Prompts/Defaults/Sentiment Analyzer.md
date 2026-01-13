@@ -56,6 +56,6 @@ This output is used for:
 [Rewrite of the line to better match the speaker’s personality and role — e.g. more “CEO pitchy,” more “engineer blunt,” more “marketing spin.”]
 
 **Reactions:**  
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]  
-Character Name: [Emotion tag]
+Character Name: Emotion tag  
+Character Name: Emotion tag  
+Character Name: Emotion tag

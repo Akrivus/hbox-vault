@@ -28,6 +28,4 @@ End with a strong **dramatic beat or reversal** that changes the power dynamic i
 - **Actions in asterisks.** Use physicality to suggest psychological states or sensory disruption.
     - Example: `Ervik: *taps helmet glass like it's a terrarium* "It hissed again. That's three today."`
 - **Play archetypes off-kilter.** Lean into roles (scientist, officer, fugitive, zealot), but fracture them under stress.
-- **Keep lines short, strange, or sharp.** Let dialogue imply inner contradictions, obsessions, or delusions.
-- **Discomfort over clarity.** Avoid exposition. Let truth emerge from misunderstanding, denial, or dream logic.
 - **Let tone swing.** Serious, surreal, or darkly comic — all are valid if grounded in character emotion.

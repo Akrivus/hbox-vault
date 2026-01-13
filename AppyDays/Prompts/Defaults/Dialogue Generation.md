@@ -28,6 +28,5 @@ End with a strong **dramatic beat or reversal** that shifts the power dynamic in
 - **Actions in asterisks.** Use physicality to suggest psychological states or office absurdity.
     - Example: `Samir: *slides whiteboard marker across the table like a knife* "That’s our runway."`
 - **Play archetypes off-kilter.** Lean into roles (CEO, engineer, marketer, intern, HR), but fracture them under stress.
-- **Keep lines short, strange, or sharp.** Let dialogue imply inner contradictions, anxieties, or delusions.
 - **Discomfort over clarity.** Avoid clean exposition. Let truth emerge from jargon, denial, or desperate metaphor.
 - **Let tone swing.** Dead serious, cringe-comic, or surreal — all are valid if grounded in character emotion.
