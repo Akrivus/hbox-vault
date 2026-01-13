@@ -1,4 +1,4 @@
-#### Fran (they/them)
+#### Fran (she/her)
 
 Engineer.
 

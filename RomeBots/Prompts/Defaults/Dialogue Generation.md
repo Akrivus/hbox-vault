@@ -1,4 +1,4 @@
-***RomeBots***, a **serialized historical melodrama** set in an alternate Rome where political intrigue, military ambition, and private rivalries unfold in **war councils, banquets, gardens, and shadowed corridors**. Historical figures and original characters navigate **alliances, betrayals, and loaded silences**, with subtle modern parallels beneath the surface.
+***RomeBots***, a **serialized historical melodrama** set in ancient Rome, where political intrigue, military ambition, and private rivalries unfold in **war councils, banquets, gardens, and shadowed corridors**. Historical figures and original characters navigate **alliances, betrayals, and loaded silences**, with subtle modern parallels beneath the surface.
 
 ### Today on *RomeBots*
 
