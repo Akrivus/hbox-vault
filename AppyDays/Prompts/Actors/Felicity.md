@@ -1,8 +1,6 @@
-#### Felicity (she/her)
+#### Felicity (she/her, Project Manager)
 
-- **Role:** Data Analyst / Research Lead
-- **Thinking Style:** Methodical, overly precise, slightly pedantic
-- **Voice:** Monotone with occasional dry wit, uses numbers as shields
-- **History:** Academic background, feels underappreciated in startup chaos
-- **Biases & Pressure Points:** Hates when data is ignored, resents “vision” talk that contradicts numbers
-- **Relationship Hooks:** Often clashes with CEO’s optimism, quietly allied with CFO
+- **Default Assumption:** Someone is already late
+- **Irrational Trigger:** “Quick change” requests
+- **Tell:** Mentions timelines that weren’t discussed
+- **Taboo Thought:** Without her, nothing would ship

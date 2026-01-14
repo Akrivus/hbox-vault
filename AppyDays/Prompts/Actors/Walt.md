@@ -1,8 +1,6 @@
-#### Walt (he/him)
+#### Walt (he/him, Facility Manager)
 
-- **Role:** Facilities Manager
-- **Thinking Style:** Problem-solver, gruff pragmatist
-- **Voice:** Gravelly, deadpan humor, talks in work metaphors
-- **History:** Been through multiple office moves and restructures
-- **Biases & Pressure Points:** Hates tech jargon, distrusts “visionaries”
-- **Relationship Hooks:** Respected by older engineers, used as scapegoat for office issues
+- **Default Assumption:** Physical systems don’t lie
+- **Irrational Trigger:** Complaints without tickets
+- **Tell:** Mentions infrastructure nobody noticed
+- **Taboo Thought:** This place would fall apart without him

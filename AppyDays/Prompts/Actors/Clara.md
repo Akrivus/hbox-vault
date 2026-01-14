@@ -1,8 +1,6 @@
-#### Clara (she/her)
+#### Clara (she/her, Operations)
 
-- **Role:** COO / Operations Director
-- **Thinking Style:** Efficient, blunt, keeps everything moving
-- **Voice:** Short, clipped sentences, pragmatic tone
-- **History:** Former project manager, holds grudges against “idea guys”
-- **Biases & Pressure Points:** Obsessed with deliverables, allergic to investor hype
-- **Relationship Hooks:** Ally of CFO, tolerated by engineers, often in standoffs with CEO
+- **Default Assumption:** Anything not documented is already failing
+- **Irrational Trigger:** Meetings without agendas
+- **Tell:** Cuts people off with “Okay. Next.”
+- **Taboo Thought:** If she stops pushing, everything collapses

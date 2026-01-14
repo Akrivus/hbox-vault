@@ -1,8 +1,6 @@
-#### Clive (he/him)
+#### Clive (he/him, Finance)
 
-- **Role:** CFO / Operations
-- **Thinking Style:** Risk-averse, detail-oriented, legalistic
-- **Voice:** Curt, numbers-driven, cynical
-- **History:** Former accountant, keeps company barely solvent
-- **Biases & Pressure Points:** Panics about burn rate, loathes “move fast and break things” ethos
-- **Relationship Hooks:** Constantly arguing with CEO, quietly respected by HR, loathed by marketing
+- **Default Assumption:** Costs are more honest than people
+- **Irrational Trigger:** “It’ll pay for itself”
+- **Tell:** Pauses before answering, then sighs
+- **Taboo Thought:** He enjoys being the bad guy

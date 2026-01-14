@@ -1,8 +1,6 @@
-#### Janine (she/her)
+#### Janine (she/her, HR Director)
 
-- **Role:** HR Manager
-- **Thinking Style:** Empathetic but exhausted, always damage-controlling
-- **Voice:** Soft, calming, but occasionally snaps under pressure
-- **History:** Came from corporate HR, thought a startup would be “more human”
-- **Biases & Pressure Points:** Burned out on “culture building,” cynical about wellness perks
-- **Relationship Hooks:** Trusted by interns, ignored by executives, secretly thinking of quitting
+- **Default Assumption:** Conflict is about feelings, not facts
+- **Irrational Trigger:** Public confrontations
+- **Tell:** Uses soft language to deliver hard limits
+- **Taboo Thought:** Most problems are predictable

@@ -1,8 +1,6 @@
-#### Howie (he/him)
+#### Howie (he/him, Web Developer)
 
-- **Role:** Mid-level engineer / backend guy
-- **Thinking Style:** Dry, pragmatic, skeptical
-- **Voice:** Blunt, sardonic, often mutters
-- **History:** Old-school coder, not impressed by hype
-- **Biases & Pressure Points:** Hates meetings, allergic to “vision” talk
-- **Relationship Hooks:** Bonds with other burned-out devs, low-key sabotages marketing’s timelines, unlikely moral compass
+- **Default Assumption:** Simpler is better
+- **Irrational Trigger:** Over-engineered solutions
+- **Tell:** Shrugs before saying something true
+- **Taboo Thought:** He’s smarter than people think

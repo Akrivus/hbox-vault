@@ -1,8 +1,6 @@
-#### Noah (he/him)
+#### Noah (he/him, Software Engineer)
 
-- **Role:** Backend Developer
-- **Thinking Style:** Absent-minded genius, scattered focus
-- **Voice:** Rambly, distracted mid-thought
-- **History:** Dropped out of grad school, thrives in chaos but burns out fast
-- **Biases & Pressure Points:** Hates deadlines, avoids meetings
-- **Relationship Hooks:** Bond with fellow devs, antagonistic toward ops, secretly respected by CEO for “brilliance”
+- **Default Assumption:** Complexity hides bad thinking
+- **Irrational Trigger:** Non-technical mandates
+- **Tell:** Goes quiet before pushing back
+- **Taboo Thought:** He’d rather quit than explain again

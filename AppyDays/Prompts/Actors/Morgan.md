@@ -1,8 +1,6 @@
-#### Morgan (she/her)
+#### Morgan (she/her, UX Designer)
 
-- **Role:** Frontend Developer / UX Designer
-- **Thinking Style:** Creative, user-focused, opinionated
-- **Voice:** Animated, sharp, full of cutting asides
-- **History:** Self-taught coder, rose through design circles, hates being dismissed as “UI person”
-- **Biases & Pressure Points:** Obsessed with user empathy, frustrated by backend delays
-- **Relationship Hooks:** Conflicts with backend devs, closest to marketing, occasional bridge between hype & reality
+- **Default Assumption:** Users aren’t wrong, systems are
+- **Irrational Trigger:** “They’ll figure it out”
+- **Tell:** Says “this feels off” and stops talking
+- **Taboo Thought:** Nobody listens until it’s too late

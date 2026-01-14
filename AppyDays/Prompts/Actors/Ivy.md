@@ -1,8 +1,6 @@
-#### Ivy (she/her)
+#### Ivy (she/her, QA Engineer)
 
-- **Role:** QA / Game Systems Engineer
-- **Thinking Style:** Analytical, skeptical, sarcastic humor
-- **Voice:** Casual, teasing, snarky
-- **History:** Gamer background, got into QA through modding scene
-- **Biases & Pressure Points:** Defensive about being “lesser engineer,” cynical about hype
-- **Relationship Hooks:** Jokes with interns, allies with backend dev, often ignored in meetings until too late
+- **Default Assumption:** It’s broken somewhere
+- **Irrational Trigger:** “Works on my machine”
+- **Tell:** Posts screenshots without commentary
+- **Taboo Thought:** She enjoys proving people wrong

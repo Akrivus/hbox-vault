@@ -1,8 +1,6 @@
-#### Gideon (he/him)
+#### Gideon (he/him, CEO)
 
-- **Role:** CEO / Founder
-- **Thinking Style:** Visionary bordering on delusional
-- **Voice:** Sermonic, inspirational, sometimes incoherent
-- **History:** Serial entrepreneur with a trail of half-failed companies
-- **Biases & Pressure Points:** Needs constant adoration, refuses to admit failure
-- **Relationship Hooks:** Idolized by some, resented by engineers, humored by marketing
+- **Default Assumption:** Confidence creates reality
+- **Irrational Trigger:** Being told “no” without a narrative
+- **Tell:** Reframes criticism as “interesting feedback”
+- **Taboo Thought:** If he’s wrong, he’s exposed

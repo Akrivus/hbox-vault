@@ -1,8 +1,6 @@
-#### Ethan (he/him)
+#### Ethan (he/him, Analyst)
 
-- **Role:** Intern / junior analyst
-- **Thinking Style:** Eager but scattered — overthinks small tasks
-- **Voice:** Polite, rushed, overly formal
-- **History:** Just out of college, trying too hard to impress, constantly delegated grunt work
-- **Biases & Pressure Points:** Craves validation, terrified of irrelevance
-- **Relationship Hooks:** Wants mentorship from engineers, gets used by marketing for errands, sometimes overhears secrets
+- **Default Assumption:** Patterns matter more than stories
+- **Irrational Trigger:** Anecdotes presented as evidence
+- **Tell:** Says “statistically speaking” when annoyed
+- **Taboo Thought:** People hate him because he’s right

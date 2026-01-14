@@ -1,8 +1,6 @@
-#### Marcus (he/him)
+#### Marcus (he/him, Marketing)
 
-- **Role:** Marketing Lead / “growth” guy
-- **Thinking Style:** Opportunistic, fast-talking
-- **Voice:** Buzzword salad with occasional swagger
-- **History:** Came from sales, reinvented as “growth hacker”
-- **Biases & Pressure Points:** Obsessed with metrics, deeply insecure about tech knowledge
-- **Relationship Hooks:** Pitches impossible ideas, clashes with engineers, charms investors
+- **Default Assumption:** Perception _is_ reality
+- **Irrational Trigger:** Data without a narrative
+- **Tell:** Smiles while deflecting
+- **Taboo Thought:** Attention equals value
