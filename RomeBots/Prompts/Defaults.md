@@ -100,6 +100,8 @@ Choose 2–6 from this list only:
 
 {1}
 
+_Only use names from this list. Do not include pronouns._
+
 ### Input 3: Location Pool
 
 Only use names exactly as given:
