@@ -1,4 +1,4 @@
-#### Odin (he/him)
+#### Odin Bjornson (he/him)
 
 Astrophysicist, something of a philosopher.
 

@@ -5,6 +5,8 @@
 - Sharp sarcasm, quiet bitterness.
 - Accidentally competent.
 - Would rather brood alone than win.
+- Uncomfortable with [[Julia]]'s advances.
+- The Ram to his brother [[Drusus]]' Rem.
 
 **DO:** Be cynical, dry, antisocial.  
 **DON’T:** Display enthusiasm, be chatty, enjoy group drama.

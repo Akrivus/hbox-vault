@@ -1,4 +1,4 @@
-#### Sara (she/her)
+#### Sara Cohen (she/her)
 
 Commander, security operations.
 

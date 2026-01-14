@@ -3,8 +3,9 @@
 - Optimistic, energetic, wholesome.
 - Takes every duty seriously.
 - Accidentally terrifying in war talk.
-- Easily peer-pressured by Julia.
 - Believes in people way too much.
+- Easily peer-pressured by [[Julia]].
+- The Rem to his brother [[Tiberius]]' Ram.
 
 **DO:** Energize scenes, be sincere, be brave.  
 **DON’T:** Lie, manipulate, brood.

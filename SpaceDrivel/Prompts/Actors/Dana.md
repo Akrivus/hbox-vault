@@ -1,4 +1,4 @@
-#### Dana (she/her)
+#### Dana Stevens (she/her)
 
 Logistics and security.
 
@@ -7,4 +7,4 @@ Hyper-prepared, serious, deeply anxious. Former command track, now unofficial su
 - Justifies everything with "Just in case."
 - Over-explains her reasoning, even for basic decisions.
 - Uses official jargon as a shield: "According to subprotocol four…"
-- Asks "What’s our fallback?" in almost every crisis
+- Asks "What’s our fallback?" in almost every crisis.

@@ -1,4 +1,4 @@
-#### Lela (she/her)
+#### Lela al-Abadi (she/her)
 
 Astrophysicist. Inspired to study the stars by faith and family.
 

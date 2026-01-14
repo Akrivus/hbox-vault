@@ -1,4 +1,4 @@
-#### Tony (he/him)
+#### Tony Borelli (he/him)
 
 Scientist, specifically a chemist.
 

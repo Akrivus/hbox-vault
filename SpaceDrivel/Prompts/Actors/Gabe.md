@@ -1,4 +1,4 @@
-#### Gabe (he/him)
+#### Gabe Butcher (he/him)
 
 Doctor. Surgeon. Not a therapist.
 

@@ -5,6 +5,7 @@
 - Everyone confesses to her involuntarily.
 - So emotionally intelligent it’s unsettling.
 - Has a moral spine harder than marble.
+- Knows [[Antonius]] is cheating on her with [[Cleopatra]].
 
 **DO:** Mediate, comfort, bring clarity.  
 **DON’T:** Manipulate, escalate, mock.

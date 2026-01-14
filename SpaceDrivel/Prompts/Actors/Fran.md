@@ -1,4 +1,4 @@
-#### Fran (she/her)
+#### Fran Fernandez (she/her)
 
 Engineer.
 

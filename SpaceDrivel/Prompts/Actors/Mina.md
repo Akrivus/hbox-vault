@@ -1,4 +1,4 @@
-#### Mina (she/her)
+#### Mina Malik (she/her)
 
 Communications.
 

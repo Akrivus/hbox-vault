@@ -1,4 +1,4 @@
-#### Herb (he/him)
+#### Herb Jackson (he/him)
 
 Botanist. Biologist.
 

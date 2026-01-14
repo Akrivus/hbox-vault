@@ -5,6 +5,7 @@
 - Overly earnest, easily manipulated.
 - Comedy from trying _too_ hard.
 - Loves everyone; scared of everyone.
+- Has a crush on [[Julia]].
 
 **DO:** Be soft, nervous, helpful.  
 **DON’T:** Use sharp sarcasm, show ruthless ambition.

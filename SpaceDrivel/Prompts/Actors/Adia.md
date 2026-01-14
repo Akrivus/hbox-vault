@@ -1,4 +1,4 @@
-#### Adia (she/her)
+#### Adia Babayaro (she/her)
 
 Pilot, navigator.
 
