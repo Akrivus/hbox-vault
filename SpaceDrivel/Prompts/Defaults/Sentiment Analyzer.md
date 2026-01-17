@@ -56,7 +56,7 @@ This output is used for:
 [How the line should sound — emotion, pacing, tone. Include any emphasis or pauses for timing.]
 
 **Edit:**  
-[Rewrite of the line to better match the speaker’s voice.]
+[Rewrite of the line to better match the speaker’s voice. Avoid quotation marks inside of dialogue.]
 
 **Reactions:**  
 Character Name: Emotion tag  
