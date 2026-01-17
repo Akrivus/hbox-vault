@@ -29,7 +29,7 @@ Never reward goodness cleanly.
 
 ---
 
-### Act 3 Moves
+### Act 4 Moves
 
 - ⚖️ A conflict → quietly buried.
 - 🪞 A truth → privately acknowledged, publicly denied.

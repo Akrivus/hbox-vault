@@ -29,7 +29,7 @@ Never introduce clean wins.
 
 ---
 
-### Act 2 Moves
+### Act 3 Moves
 
 - 🔄 A plan → misread by the wrong person.
 - 🪤 A tactic → traps its creator.
@@ -45,10 +45,10 @@ Never introduce clean wins.
 [A space that heightens exposure, risk, or publicness.]
 
 **Primary Backfire:**  
-[How the Act 1 intention goes wrong.]
+[How the Act 2 intention goes wrong.]
 
 **Social Fallout:**  
 [Who is now offended, threatened, or repositioned.]
 
-**Act 2 Hook:**  
+**Act 3 Hook:**  
 [A moment that proves things cannot return to how they were.]

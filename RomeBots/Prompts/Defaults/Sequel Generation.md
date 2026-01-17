@@ -46,5 +46,5 @@ Every scene is a **pressure chamber**. Your job is to release that pressure into
 **Behavioral Mutation:**  
 [Which tactic or emotional stance starts to break down? Who’s changing tone, becoming sarcastic, evasive, volatile, or suddenly warm?]
 
-**Scene Hook:**  
+**Act 1 Hook:**  
 [A line of dialogue, gesture, or visual beat that invites the next escalation or inversion.]

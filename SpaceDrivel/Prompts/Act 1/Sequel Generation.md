@@ -50,5 +50,5 @@ Never introduce random new threats.
 **Emerging Conflict:**  
 [How those wants collide.]
 
-**Act 1 Hook:**  
+**Act 2 Hook:**  
 [A decision or realization that commits the episode.]

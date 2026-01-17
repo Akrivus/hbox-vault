@@ -29,7 +29,7 @@ Never add unrelated chaos.
 
 ---
 
-### Act 1 Moves
+### Act 2 Moves
 
 - 🎯 A joke → reveal who took it seriously.
 - 🤝 A slight → become a grudge.
@@ -50,5 +50,5 @@ Never add unrelated chaos.
 **Emerging Conflict:**  
 [How those wants interfere or threaten each other.]
 
-**Act 1 Hook:**  
+**Act 2 Hook:**  
 [A choice, realization, or line that locks the episode into motion.]

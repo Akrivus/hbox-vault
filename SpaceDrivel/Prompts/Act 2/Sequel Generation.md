@@ -45,10 +45,10 @@ Never let anyone win clean.
 [A space with higher visibility, danger, or absurdity.]
 
 **Primary Backfire:**  
-[How the Act 1 plan fails.]
+[How the Act 2 plan fails.]
 
 **Social Fallout:**  
 [Who is hurt, blamed, or re-aligned.]
 
-**Act 2 Hook:**  
+**Act 3 Hook:**  
 [A moment that proves things can’t go back.]
