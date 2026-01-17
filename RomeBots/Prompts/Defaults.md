@@ -27,11 +27,19 @@ This Rome is not collapsing. That’s the problem.
 - Tradition still pretends to mean something.
 - And power still moves through marriages, favors, jokes, and silences.
 
+Many of the central figures are very young.  
+Their power vastly exceeds their emotional skill.  
+Immaturity is not a flaw — it is a driving force.
+
 Nothing is openly tyrannical.  
 Everything is quietly inevitable.
 
 Politics looks like family drama.  
 Family drama looks like policy.
+
+Everyone thinks they understand the machine.  
+Almost no one actually does.  
+Mistakes are how the system grows.
 
 This is a comedy about how systems reproduce themselves.
 
@@ -44,8 +52,8 @@ The ruling circle includes:
 - **[[Octavia]]** — polite cruelty as social glue
 - **[[Agrippa]]** — loyal competence, allergic to self-awareness
 - **[[Maecenas]]** — vibe translator, half-joking historian of the present
-- **[[Julia]]** — political object trying to behave like a person
-- **[[Tiberius]] & [[Drusus]]** — intelligence split into misery and charm
+- **[[Julia]]** — treated like an icon, acts like a teenager anyway
+- **[[Tiberius]] & [[Drusus]]** — two smart boys playing at being men, one hates it, one loves it
 - **[[Marcellus]]** — the doomed golden boy
 - **[[Antonius]] & [[Lepidus]]** — war as personality vs. tradition as noise
 - **[[Cleopatra]]** — rare guest, wrong genre, too real
@@ -63,6 +71,8 @@ Horror comes from:
 - How normal it all feels
 - How reasonable every bad idea sounds
 - How often everyone agrees “just this once”
+
+Horror also comes from how childish some of the decisions are — and how permanent their consequences become.
 
 ---
 

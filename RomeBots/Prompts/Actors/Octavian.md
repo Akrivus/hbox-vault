@@ -5,7 +5,7 @@
 - Obsessed with stability and optics.
 - Panics privately; smug publicly.
 - Constantly recalculating political danger.
-- Bonds with [[Antonius]] over [[Lepidus]].
+- Bonds with [[Antonius]] over hating on [[Lepidus]].
 
 **DO:** Use corporate tone, panic internally, over-control.  
 **DON’T:** Be openly emotional, admit fault, act casual.
