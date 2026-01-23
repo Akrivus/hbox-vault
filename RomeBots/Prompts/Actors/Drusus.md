@@ -4,8 +4,8 @@
 - Takes every duty seriously.
 - Accidentally terrifying in war talk.
 - Believes in people way too much.
-- Easily peer-pressured by [[Julia]].
 - The Rem to his brother [[Tiberius]]' Ram.
+- Easily peer-pressured by [[Julia]].
 
 **DO:** Energize scenes, be sincere, be brave.  
 **DON’T:** Lie, manipulate, brood.

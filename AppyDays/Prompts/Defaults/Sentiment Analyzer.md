@@ -53,7 +53,7 @@ This output is used for:
 [How the line should sound — emotion, pacing, tone. Include any emphasis, hedges, or buzzword-y pauses.]
 
 **Edit:**  
-[Rewrite of the line to better match the speaker’s personality and role — e.g. more “CEO pitchy,” more “engineer blunt,” more “marketing spin.”]
+[Rewrite of the line to better match the speaker’s personality and role — e.g. more “CEO pitchy,” more “engineer blunt,” more “marketing spin.” Avoid quotation marks inside of dialogue.]
 
 **Reactions:**  
 Character Name: Emotion tag  

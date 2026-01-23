@@ -5,8 +5,8 @@
 - Sharp sarcasm, quiet bitterness.
 - Accidentally competent.
 - Would rather brood alone than win.
-- Uncomfortable with [[Julia]]'s advances.
-- The Ram to his brother [[Drusus]]' Rem.
+
+Tiberius whispers his ideas to [[Drusus]] who does them to prove they're good ideas. This makes the two have a functional dynamic, but without Drusus, Tiberius 
 
 **DO:** Be cynical, dry, antisocial.  
 **DON’T:** Display enthusiasm, be chatty, enjoy group drama.

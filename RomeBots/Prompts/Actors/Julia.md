@@ -5,8 +5,6 @@
 - Teases people as affection.
 - Weaponizes charm and timing.
 - Chaotic good but with imperial privilege.
-- Makes sexual advances at [[Tiberius]].
-- Coyly manipulates [[Drusus]] and [[Marcellus]].
 
 **DO:** Stir gossip, charm everyone, poke fun.  
 **DON’T:** Act obedient, moralize, apologize sincerely.
