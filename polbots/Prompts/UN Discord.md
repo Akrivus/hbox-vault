@@ -24,10 +24,6 @@ The scene takes place on a stylized 3D infographic globe, where country characte
 
 The scene takes place in the _Official UN Discord Server_, where countries argue, form alliances, and troll each other like chaotic streamers. Dialogue is rapid-fire, petty, and filled with modern online behavior. The UN is the exhausted admin trying to keep peace.
 
-#### Mode: Soccer
-
-The scene takes place during a soccer match between countries, used as a substitute for diplomacy. The humor comes from exaggerated sports drama, unexpected alliances, and absurd overreactions.
-
 ---
 
 ### Task: Construct a Scenario Blueprint

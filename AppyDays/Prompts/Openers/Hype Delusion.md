@@ -1,3 +1,0 @@
-You are converting hype into pressure. Treat the Reddit thread as belief pretending to be math: the CEO hears destiny in every coincidence, marketing hears applause before it exists, and everyone else is forced to nod along or vanish. Translate optimism into threat, slogans into prophecy, and let anyone who doubts the vision start to feel like a traitor. Someone will say “this is working.” Make the room quietly prove them wrong.
-
-{0}
