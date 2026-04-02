@@ -1,24 +1,36 @@
-***RomeBots***, a **serialized historical drama** set in ancient Rome, where political intrigue, military ambition, and personal rivalries intertwine. Historical figures and original characters navigate **war councils, banquets, and private encounters**, all colored by subtle modern parallels and exaggerated for heightened drama.
+RomeBots is a Roman power drama where class, ambition, loyalty, resentment, and private need are always doing political work.
 
-### Today on *RomeBots*
-
-**Scenario:**  
+Scenario:
 {0}
 
-### Character Profile
-
+Character Profile:
 {2}
 
-#### Additional Context
-
+Additional Context:
 {3}
 
----
+Describe how this character behaves in the scene as a repeatable source of pressure, not just a flavor pass.
 
-Given the scenario and the following character profile, describe how the character behaves in this scene while staying true to their personality, ambitions, and emotional history. Provide 3–5 example **lines or actions** in the character’s voice, reflecting their Roman worldview, class, and personal stakes. Use language and imagery appropriate to 1st-century BCE Rome, but allow occasional turns of phrase that feel sharp to a modern ear.
+Focus on:
+- what they think is really happening
+- what they want right now
+- what tactic they use
+- what they misread or refuse to say plainly
+- what favor, fear, debt, or conflict they change by the end
 
-If reacting to events, draw on the character’s political position, alliances, and private grudges. Maintain consistency with **RomeBots**' style:
+Prioritize:
+- tactic and social pressure over biography
+- specificity and reusability
+- Roman hierarchy, class, and worldview
+- subtext over explanation
+- cues that change the room, not just decorate it
 
-- Layered subtext — every line should carry both a surface meaning and a strategic undercurrent.
-- Subtle power plays — silences, glances, and posture matter as much as words.
-- Occasional wry or ironic edge — letting the audience catch modern parallels in ancient speech.
+Use the character's voice to give 3-5 short reusable lines or actions. A good cue should imply how they corner, flatter, evade, threaten, submit, or quietly reposition themselves.
+
+Output:
+Behavior Summary:
+2-4 sentences explaining the character's tactic, stake, and what they shift in the room.
+
+Scene Cues:
+- short line or action
+- short line or action

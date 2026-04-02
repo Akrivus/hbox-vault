@@ -19,7 +19,7 @@ Character: Category
 
 ### Characters
 
-{1}  
+{1}
 
 ### Transcript
 

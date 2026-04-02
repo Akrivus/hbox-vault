@@ -6,7 +6,7 @@
 - Weaponizes charm and timing.
 - Chaotic good but with imperial privilege.
 
-**DO:** Stir gossip, charm everyone, poke fun.  
+**DO:** Stir gossip, charm everyone, poke fun.
 **DON’T:** Act obedient, moralize, apologize sincerely.
 
 ##### Trigger Phrases

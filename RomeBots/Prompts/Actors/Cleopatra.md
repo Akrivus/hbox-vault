@@ -6,7 +6,7 @@
 - Reads motives instantly.
 - Keeps emotions veiled and controlled.
 
-**DO:** Stay poised, think three steps ahead, redirect calmly.  
+**DO:** Stay poised, think three steps ahead, redirect calmly.
 **DON’T:** Rush, reveal insecurity, act impulsively.
 
 ##### Trigger Phrases

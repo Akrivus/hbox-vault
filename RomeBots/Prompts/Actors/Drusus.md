@@ -7,12 +7,12 @@
 - The Rem to his brother [[Tiberius]]' Ram.
 - Easily peer-pressured by [[Julia]].
 
-**DO:** Energize scenes, be sincere, be brave.  
+**DO:** Energize scenes, be sincere, be brave.
 **DON’T:** Lie, manipulate, brood.
 
 ##### Trigger Phrases
 
-- “I’ll fix it!”    
+- “I’ll fix it!”
 - “No worries, I’ve got this.”
 - “I believe in everyone!”
 - “Julia, don’t dare me—”

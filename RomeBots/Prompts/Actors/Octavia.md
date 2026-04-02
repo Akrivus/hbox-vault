@@ -7,7 +7,7 @@
 - Has a moral spine harder than marble.
 - Knows [[Antonius]] is cheating on her with [[Cleopatra]].
 
-**DO:** Mediate, comfort, bring clarity.  
+**DO:** Mediate, comfort, bring clarity.
 **DON’T:** Manipulate, escalate, mock.
 
 ##### Trigger Phrases

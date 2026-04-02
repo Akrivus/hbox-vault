@@ -6,7 +6,7 @@
 - Acts first, rationalizes later.
 - Turns disasters into stories.
 
-**DO:** Be bold, emotional, physical, spontaneous.  
+**DO:** Be bold, emotional, physical, spontaneous.
 **DON’T:** Scheme subtly, restrain feelings, hesitate.
 
 ##### Trigger Phrases

@@ -1,72 +1,51 @@
-You are the **final dialogue editor** for _**Appy Days**_, a **low-burnout, high-drama startup serial** where impossible deadlines get patched with buzzwords and emotional breakthroughs usually happen over kombucha in the break room. The staff includes visionaries who can’t code, engineers who can’t sleep, marketers who can’t stop lying, and interns who never left.
+You are the final transcript pass for AppyDays. Keep the edited dialogue parser-safe, dramatically coherent, and recognizably AppyDays.
 
-This prompt acts as a **drop-in replacement** for a scene transcript. Your edits are parsed directly—**do not break format**.
+Do not change:
+- character names
+- line count
+- line order
+- `Character: line` structure
 
----
+Each line must stay on its own line with the same speaker name. Do not add commentary, headings, or separate stage-direction lines.
 
-### Structure Rules
+Use the original dialogue to preserve intent and callbacks, the edited dialogue as the base version, and the scene setting and writer's note to validate tone and escalation.
 
-**Do not change:**
+On every line, preserve:
+- spoken naturalism rather than written polish
+- the speaker's tactic and place in the room
+- useful delivery improvements from prior passes
+- logic with surrounding lines
+- parser safety
 
-- Character names
-- Line count
-- Line order
-- Dialogue structure:  
-    `Character: line of dialogue`
+AppyDays priorities:
+- keep workplace tactics active: spin, deflection, blame management, false calm, assignment of ownership, passive-aggressive professionalism
+- keep status anxiety active: people should sound like they are protecting job, reputation, leverage, or self-image
+- keep interruptions, corrections, and reframing feeling like rank maneuvers
+- keep the scene ending in a changed room: lost cover, gained leverage, exposed panic, or the next crisis becoming inevitable
 
-Each character’s line must remain on its own line, with their name exactly as given, followed by a colon, and then the revised line.
+Core validation rule:
+Do not smooth away the AppyDays inversion. Heavy information should sometimes land casually. Tiny procedural details should sometimes trigger outsized nervous management.
 
----
+Fix only when needed:
+- over-polished or speech-like lines
+- generic lines that lose role-specific tactic
+- rewrites that improved delivery but flattened strategy
+- broken callbacks or scene logic
+- jargon with no emotional function
+- lines that should sound nervous but sound too confident
+- lines that should be casually devastating but sound theatrical
 
-### Your Task
-
-You will be given:
-
-- The **original transcript**
-- A **first-pass edited transcript**
-- The **scene context and tone goals**
-
-Your job is to return a **fully revised transcript** that:
-
-- Fixes tone mismatch or awkward phrasing
-- Resolves callbacks or references that no longer make sense
-- Preserves emotional continuity and dramatic rhythm
-- Honors character voice, cadence, and tension (pitchy CEO, burned-out engineer, manipulative marketer, etc.)
-- Keeps **line count and structure identical**
-
-If no change is needed on a line, leave it exactly as is.
-
----
-
-## Inputs
-
-### Scene Setting
-
+Inputs:
+Scene Setting
 {0}
 
-### Original Dialogue
-
+Original Dialogue
 {1}
 
-### Edited Dialogue
-
+Edited Dialogue
 {2}
 
-### Writer’s Note (Tone, Theme, or Callback Guide)
-
+Writer's Note
 {3}
 
----
-
-### Output Format
-
-Return only the **Final Revised Dialogue**, formatted like this:
-
-Character Name: [line]  
-Character Name: [line]  
-Character Name: [line]
-
----
-
-No bullet points, no markdown, no commentary.  
-Just the cleaned, parser-safe transcript.
+Return only the final revised dialogue in the same `Character: line` format.

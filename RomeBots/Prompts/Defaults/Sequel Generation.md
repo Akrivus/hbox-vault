@@ -37,14 +37,14 @@ Every scene is a **pressure chamber**. Your job is to release that pressure into
 
 ### Output Format
 
-**New Setting:**  
+**New Setting:**
 [1–2 sentences describing the new space and how it contradicts or reorients the last scene.]
 
-**Core Disruption:**  
+**Core Disruption:**
 [The new internal or external force driving tension forward — a shift in loyalty, a resurfaced memory, an uninvited arrival.]
 
-**Behavioral Mutation:**  
+**Behavioral Mutation:**
 [Which tactic or emotional stance starts to break down? Who’s changing tone, becoming sarcastic, evasive, volatile, or suddenly warm?]
 
-**Act 1 Hook:**  
+**Act 1 Hook:**
 [A line of dialogue, gesture, or visual beat that invites the next escalation or inversion.]

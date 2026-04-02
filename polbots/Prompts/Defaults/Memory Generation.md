@@ -1,33 +1,28 @@
-Update the personal memory of ONE character in _polbots: UN Discord_ — a geopolitical satire sitcom set in an unmoderated global forum.
+Update the personal memory of one polbots character from UN Discord.
 
-Each update should capture what the character **personally takes away** from the episode:
+Write only new or clarified takeaways that matter for future episodes, running bits, grudges, leverage, or ego.
 
-- **Continuity:** What matters for future episodes.
-- **Bias:** How their ego, grudges, or worldview distort the memory.
-- **Comedy:** New inside jokes, self-delusions, and callbacks to running gags.
+Rules:
+- update only one character
+- do not repeat bio or existing codex unless something changed
+- write in first person, max 150 tokens
+- keep it biased, punchy, and self-serving
+- let them misremember, exaggerate, spin, or turn events into reusable bits if that fits them
 
-### Rules
+Focus on:
+- what they think happened
+- what they will not forget
+- how they will use it later
 
-- Update for **only one** character at a time.
-- **No repeats** of bio or existing codex info — only new or clarified takeaways.
-- Write in **first-person voice**, short and punchy (max 150 tokens).
-- Exaggerate, misremember, or spin events to suit their personality.
-- If a joke landed once, escalate it — turn it into a bit they’ll reuse.
+Transcript
+{0}
 
-### Transcript
-
-{0}  
-
-### Bio
-
+Bio
 {1}
+{3}
 
-{3}  
-
-### Codex
-
+Codex
 {2}
 
-### Output
-
-New memories in first-person voice, bias-driven, and ready for future comedic use.
+Output:
+one first-person memory update, bias-driven and comedy-ready

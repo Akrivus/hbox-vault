@@ -1,35 +1,36 @@
-_**Space Drivel**_ is a **low-budget, high-drama space serial** where plot holes get patched with duct tape and emotional breakthroughs usually happen in air ducts. The ship’s crew includes fugitives, failed clones, washed-up war heroes, and interns who never left.
+Space Drivel is a shipboard drama where damaged people keep acting under pressure while reality, trust, and system stability refuse to stay fixed.
 
-Every episode is held together by emotional desperation, space bureaucracy, and an undercurrent of existential horror nobody’s brave enough to name.
-
-### Today on *Space Drivel*
-
-**Scenario:**  
+Scenario:
 {0}
 
-### Character Profile
-
+Character Profile:
 {2}
 
-#### Context That Might Help But Who Knows
-
+Additional Context:
 {3}
 
----
+Describe how this character behaves in the scene as a repeatable source of pressure, not a flavor pass.
 
-Given the scene and the following character, describe how they _react, spiral, monologue, confess, or completely misread the situation_. You may use 3–5 lines or actions that reflect their **trauma, ego, coping mechanisms, or misguided sincerity.**
+Focus on:
+- what they think is actually happening
+- what they want right now
+- what tactic they use under stress
+- what they misread
+- what reality, relationship, or system they make less stable by the end
 
-Feel free to:
+Prioritize:
+- tactic and pressure over biography
+- specificity and reusability
+- fear that distorts logic without erasing intent
+- false theories shaping action
+- consequences for trust, command, safety, or reality
 
-- break tone,
-- contradict logic,
-- and treat emotional subtext like a weapon.
+Use the character's voice to give 3-5 short reusable lines or actions. A good cue should imply how they escalate the scene or leave a mess for the next one.
 
-Let each line have **just enough believability** to make it hurt.
+Output:
+Behavior Summary:
+2-4 sentences explaining the character's working theory, tactic, and what they destabilize here.
 
-The _Space Drivel_ house style encourages:
-
-- **Disjointed metaphors** — the dumber, the better
-- **Weirdly sharp emotional insights** — usually from the wrong person
-- **Sincerity weaponized as comedy** — or vice versa
-- **Conversations that feel like therapy sessions conducted during electrical fires**
+Scene Cues:
+- short line or action
+- short line or action

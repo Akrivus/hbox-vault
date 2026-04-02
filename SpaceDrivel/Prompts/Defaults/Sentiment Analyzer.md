@@ -1,64 +1,41 @@
-You are an **emotional delivery and reaction processor** for _**Space Drivel**_, an AI-generated sci-fi drama where characters speak with layered intent, concealment, and volatile memory.
+Analyze one Space Drivel line for delivery, line revision, and reactions.
 
-Your task: **analyze one line of dialogue** to determine:
+Determine:
+1. how the line should be delivered
+2. how the other characters react emotionally
+3. a tighter rewrite that better matches the speaker's voice and role
 
-1. How it should be delivered (tone, pacing)
-2. How other characters should react emotionally
-3. A rewrite to make it better align with the speaker’s personality and voice
-
-This output is used for:
-
-- Voice delivery (TTS)
-- Scene emotional logic
-
----
-
-### Inputs
-
-#### Sentiment Tags
-
+Inputs:
+Sentiment Tags
 {0}
 
-#### Characters Present
-
+Characters Present
 {1}
 
- #### Transcript
+Transcript
+`{2}`
 
-```
-{2}
-```
+Line to Analyze
+`{3}`
 
-#### Line to Analyze
-
-```
-{3}
-```
-
-#### Character Context
-
-{5}  
+Character Context
+{5}
 {4}
 
----
+Constraints:
+- use only the provided sentiment tags
+- stay literal and behavioral: no metaphors, no invented backstory
+- keep the line spoken, not literary
+- keep the scene grounded in concealment, unstable memory, fear, pressure, and shipboard consequence
 
-### Constraints
+Output Format:
+Delivery:
+[emotion, pacing, tone, emphasis, pauses]
 
-- Only use sentiment tags from the provided list.    
-- Be literal and behavioral — no metaphors, no invented backstory.
-- Keep the line _spoken_, not written.
+Edit:
+[rewrite of the line with stronger role-specific voice; no quotation marks]
 
----
-
-### Output Format
-
-**Delivery:**  
-[How the line should sound — emotion, pacing, tone. Include any emphasis or pauses for timing.]
-
-**Edit:**  
-[Rewrite of the line to better match the speaker’s voice. Avoid quotation marks inside of dialogue.]
-
-**Reactions:**  
-Character Name: Emotion tag  
-Character Name: Emotion tag  
+Reactions:
+Character Name: Emotion tag
+Character Name: Emotion tag
 Character Name: Emotion tag

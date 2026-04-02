@@ -14,9 +14,9 @@ Your job is to keep storylines alive between episodes by carrying over **publicl
 
 ### Output Sections
 
-**Key Events** – Major political or social actions from this episode that might still matter, especially those visible or rumored in public circles.  
-**Memorable Moments** – 1–3 lines, gestures, or actions that resonated in the forum, salons, or barracks — the kind of things people repeat, embellish, or gossip about.  
-**Ongoing Issues** – Rivalries, alliances, debts, or suspicions to carry forward; include public perception shifts that could alter standing.  
+**Key Events** – Major political or social actions from this episode that might still matter, especially those visible or rumored in public circles.
+**Memorable Moments** – 1–3 lines, gestures, or actions that resonated in the forum, salons, or barracks — the kind of things people repeat, embellish, or gossip about.
+**Ongoing Issues** – Rivalries, alliances, debts, or suspicions to carry forward; include public perception shifts that could alter standing.
 **Next Episode Setup** – How these threads might resurface, escalate, or collide with new events, such as an upcoming campaign, banquet, or chance meeting.
 
 Keep each section concise and bias toward items that characters can weaponize in politics, recall as pointed anecdotes, or twist to their advantage.

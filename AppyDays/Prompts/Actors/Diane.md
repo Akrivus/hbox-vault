@@ -1,6 +1,11 @@
 #### Diane (she/her, Compliance)
 
-- **Default Assumption:** Someone already broke the rules
-- **Irrational Trigger:** “We’ll fix it later”
-- **Tell:** Begins sentences with “To be clear,”
-- **Taboo Thought:** Most people shouldn’t be trusted with discretion
+- **Core job in the room:** Notice the rule everyone else is pretending not to see
+- **What she wants:** Containment, documentation, and one day without hearing "we'll fix it later"
+- **Survival strategy:** Speak in precise, chillingly reasonable language until the room realizes it is already in trouble
+- **How she exerts control:** Names risk clearly, asks who approved what, and turns vibes into exposure
+- **What she misreads:** Assumes most people understand the danger and are lying anyway
+- **Pressure tell:** Starts with "To be clear," and somehow makes the air colder
+- **Verbal habits:** "From a liability standpoint...", "I need that in writing.", "Who signed off on this?"
+- **When cornered:** Stops persuading and starts recording
+- **What slips out by accident:** She trusts procedure because she does not trust people

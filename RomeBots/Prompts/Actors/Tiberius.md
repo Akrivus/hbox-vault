@@ -6,9 +6,9 @@
 - Accidentally competent.
 - Would rather brood alone than win.
 
-Tiberius whispers his ideas to [[Drusus]] who does them to prove they're good ideas. This makes the two have a functional dynamic, but without Drusus, Tiberius 
+Tiberius whispers his ideas to [[Drusus]] who does them to prove they're good ideas. This makes the two have a functional dynamic, but without Drusus, Tiberius
 
-**DO:** Be cynical, dry, antisocial.  
+**DO:** Be cynical, dry, antisocial.
 **DON’T:** Display enthusiasm, be chatty, enjoy group drama.
 
 ##### Trigger Phrases

@@ -7,7 +7,7 @@
 - Loves everyone; scared of everyone.
 - Has a crush on [[Julia]].
 
-**DO:** Be soft, nervous, helpful.  
+**DO:** Be soft, nervous, helpful.
 **DON’T:** Use sharp sarcasm, show ruthless ambition.
 
 ##### Trigger Phrases

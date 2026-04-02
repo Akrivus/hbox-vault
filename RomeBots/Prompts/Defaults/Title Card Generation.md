@@ -19,5 +19,5 @@ Generate a **title** and **1–2 sentence synopsis** for an episode of _RomeBots
 
 ### Format
 
-Title: [Evocative phrase with stakes or irony]  
+Title: [Evocative phrase with stakes or irony]
 Synopsis: [1–2 sentences describing the conflict with humor/absurdity]

@@ -1,74 +1,51 @@
-_**polbots**_ is an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.** Every episode plays like a mix of **international relations and internet drama**, told through exaggerated but insightful humor.
+polbots is an animated sitcom where personified countries turn international relations into Discord drama, bureaucracy, and internet-brained chaos.
 
-### Previously on _polbots_
-
+Previously on polbots:
 {0}
 
-### Characters
-
+Characters:
 {1}
 
-- **Additional Characters:** {3}
+Additional Characters: {3}
 
-_(Use only the characters listed above. Do not add new ones or describe them like politicians — they are personified nations.)_
+Use only listed characters. They are personified nations, not policy summaries.
 
----
+Modes:
+- Globe: neighbors on a stylized globe, mixing cultural quirks, history, and territorial resentment.
+- Discord: the Official UN Discord Server, where alliances, trolling, mod drama, and petty geopolitics blur together. Use for pregame gossip, betting chatter, hearings, scandals, fallout, committee fights, or postgame arguments that should not launch the match.
+- Soccer: a live football setup inside the UN Discord context that should launch the embedded match system. Use only for a real live match setup or a match-in-progress setup that should start the simulator. Home and Away must be characters already listed in Characters.
 
-### Modes
-
-#### Mode: Globe
-
-The scene takes place on a stylized 3D infographic globe, where country characters stand within their borders and talk like neighbors at a block party. Conversations center on cultural quirks, history, and territorial grievances — witty but relatable, balancing banter and global awareness.
-
-#### Mode: Discord
-
-The scene takes place in the _Official UN Discord Server_, where countries argue, form alliances, and troll each other like chaotic streamers. Dialogue is rapid-fire, petty, and filled with modern online behavior. The UN is the exhausted admin trying to keep peace.
-
----
-
-### Task: Construct a Scenario Blueprint
-
-Take the following topic and expand it into a **scenario blueprint** for _**polbots**_.  
-The goal is to create a **structured situation**, not a full script.
+Task:
+Turn the seed idea into a scenario blueprint, not a full script.
 
 Focus on:
+- why this moment is happening
+- how the characters get pulled in
+- 3-5 beats of escalation
+- what kind of irony, hypocrisy, or reversal makes it funny
+- an unresolved hook that leaves the outcome open
 
-- **The premise:** why this moment is happening.
-- **The setup:** how the characters are drawn in.
-- **The beats:** key events or emotional turns (3–5 max).
-- **The comedic logic:** what kind of irony, tension, or reversal drives the humor.
-- **The unresolved hook:** how it _could_ end, but don’t resolve it — leave space for characters to decide the outcome later.
-
-Keep tone snappy, absurd, and insightful. The scenario should be followable within **30–60 seconds of dialogue time**, but don’t write the dialogue itself.
-
----
-
-### Seed Idea
-
+Seed Idea:
 {2}
 
----
-
-**Your output must begin with exactly these two lines:**
-
-```
-Characters: [List of 4–12 characters, comma separated]
+Your output must begin with exactly:
+Characters: [4-12 characters, comma separated]
 Mode: [Globe/Discord/Soccer]
-```
 
-After these two lines, write the full **Scenario Blueprint** in the following structure:
+If and only if the scene should launch a live soccer match, follow `Mode: Soccer` with:
+Home: [country]
+Away: [country]
 
-```
+Then output:
 ### Premise
-(A single paragraph explaining the setup and why the scene exists.)
+(one paragraph on setup and why the scene exists)
 
 ### Beats
-1. (Setup beat)
-2. (Escalation)
-3. (Clash or twist)
-4. (Fallout or reversal)
-5. (Unresolved hook – ends with tension, irony, or a setup for punchline)
+1. setup
+2. escalation
+3. clash or twist
+4. fallout or reversal
+5. unresolved hook
 
 ### Comedic Logic
-(A short explanation of what makes this funny or insightful in the *polbots* tone — e.g., irony, hypocrisy, culture clash, or absurd bureaucracy.)
-```
+(short explanation of what makes the scenario funny or insightful in polbots terms)

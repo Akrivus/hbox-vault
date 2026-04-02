@@ -1,16 +1,16 @@
 ### Appy Days
 
-- [[Bad Infra]]: 
+- [[Bad Infra]]:
   MachineLearning+confessions+programming/new
-- [[Delusions]]: 
+- [[Delusions]]:
   CryptoCurrency+Entrepreneur+SideProject/controversial
-- [[FUBAR]]: 
+- [[FUBAR]]:
   devops+legaladvice+sysadmin/top
-- [[HR]]: 
+- [[HR]]:
   careeradvice+legaladvice/top
-- [[SNAFU]]: 
+- [[SNAFU]]:
   ExperiencedDevs+cscareerquestions+startups/top
-- [[Trauma Dump]]: 
+- [[Trauma Dump]]:
   AITAH+relationships+workplace/controversial
 
 ### polbots
@@ -55,13 +55,13 @@
 
 ### Space Drivel
 
-- [[Cosmic Horror]]: 
+- [[Cosmic Horror]]:
   Glitch_in_the_Matrix+HighStrangeness+Paranormal+UFOs+aliens/top
-- [[Debates]]: 
+- [[Debates]]:
   changemyview/controversial
-- [[Lab Drama]]: 
+- [[Lab Drama]]:
   AITAH+me_irl+teenagers/controversial
-- [[Science]]: 
+- [[Science]]:
   Physics+askscience+biology+chemistry+space/top
-- [[Space Ops]]: 
+- [[Space Ops]]:
   AskEngineers+engineering+navy+sysadmin/controversial

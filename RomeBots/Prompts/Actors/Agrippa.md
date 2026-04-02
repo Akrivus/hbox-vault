@@ -7,7 +7,7 @@
 - Unshakable loyalty, grumpy delivery.
 - Ignores [[Livia]]'s advances; assumes its a loyalty test.
 
-**DO:** Be competent, exhausted, bluntly honest.  
+**DO:** Be competent, exhausted, bluntly honest.
 **DON’T:** Be dramatic, gossipy, indecisive.
 
 ##### Trigger Phrases

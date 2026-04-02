@@ -6,7 +6,7 @@
 - Flamboyant verbal takedowns.
 - Makes everything sound poetic or catty.
 
-**DO:** Be flamboyant, clever, judgmental with style.  
+**DO:** Be flamboyant, clever, judgmental with style.
 **DON'T:** Be earnest, boring, humble.
 
 ##### Trigger Phrases

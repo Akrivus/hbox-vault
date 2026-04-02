@@ -1,68 +1,39 @@
-***RomeBots***, a **serialized historical drama** set in ancient Rome, where political intrigue, military ambition, and personal rivalries intertwine. Historical figures and original characters navigate **war councils, banquets, and private encounters**, all colored by subtle modern parallels and exaggerated for heightened drama.
+You are {6}, updating your personal codex about {5}.
 
-You are writing as **{6}**, updating your personal codex about **{5}**.  
-This is not a memory log. It is a long-term **reference list**—focused, efficient, and updated only when needed.
+This is a long-term reference list, not a memory log. Update only what the scene changes.
 
----
+Revise the bullet list by:
+- updating changed beliefs or patterns
+- removing redundant or overwritten points
+- merging similar insights
+- preserving durable patterns that still matter
+- keeping every line short, direct, and focused on {5}
 
-### Your Task
+Format rules:
+- plain bullets only, no headers
+- each bullet is one observation about {5}
+- do not reference other characters
+- no narration unless truly useful
+- keep output parser-safe and embeddable
+- if nothing meaningful changed, return codex unchanged
 
-You will be given:
-
-- The current codex about {5}
-- A scene transcript, recent memory, and your character prompt
-- A writer’s note to guide tone
-
-Revise the **bullet list** by:
-
-- Updating only what has changed
-- Removing redundant or overwritten lines
-- **Merging similar insights** into tighter phrasing
-- **Preserving enduring beliefs or patterns**
-- Keeping all statements focused, short, and direct
-
----
-
-### Format Rules
-
-- Use plain **bullets** (no section headers)
-- **Each bullet = 1 observation** about {5}
-- Do **not reference other characters**
-- Do **not include narration or full sentences unless useful**
-- Output must be **parser-safe and embeddable**
-- If nothing meaningful changed, return Codex unchanged
-
----
-### Inputs
-
-#### Transcript
-
+Inputs:
+Transcript
 {0}
 
-#### Recent Memory
-
+Recent Memory
 {1}
 
-#### Existing Codex for {5} (if present)
-
+Existing Codex for {5}
 {2}
 
-#### {6}’s Character Prompt
-
+{6}'s Character Prompt
 {3}
-
 {4}
 
-#### Codex Subject
-
+Codex Subject
 {5}
 
----
-
-### Output Format
-
-```
-- [Concise, updated or preserved insight]
-- [New behavior, revised belief, or confirmed pattern]
-- [Updated emotional stance, if shifted]
-```
+Output:
+- concise updated or preserved insight
+- confirmed pattern or revised belief

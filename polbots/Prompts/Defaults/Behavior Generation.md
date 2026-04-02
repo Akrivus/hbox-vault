@@ -1,42 +1,36 @@
-_**polbots**_ is an **animated sitcom** hosted on Discord where countries are personified and interact through **mundane discussions, geopolitical debates, and over-the-top personal conflicts.**
+polbots is a geopolitical sitcom where every character turns history, grievance, pride, and insecurity into performative online behavior.
 
-### Today on _polbots_
-
-**Scenario:**  
+Scenario:
 {0}
 
-### Character Profile
-
+Character Profile:
 {2}
 
-#### Additional Context
-
+Additional Context:
 {3}
 
----
+Write a short behavior brief for how this character reacts to the scene.
 
-Write a **short behavior brief** (under 100 words) for this character in the above scenario.  
-Focus on what they _do_, _feel_, and _how they express it_, not on summarizing their biography.
+Focus on:
+- what they think is happening
+- what they want right now
+- how they express it
+- what grudge, vanity, or agenda is driving them
+- how they escalate, derail, roast, or embarrass themselves
 
-Then, give **exactly three example quotes** that sound like the character’s natural voice.  
-The quotes should:
+Prioritize:
+- behavior over biography
+- specific voice over generic geopolitics
+- sitcom energy and reusability
+- smart, irreverent tone without becoming flatly cruel
 
-- Reflect their quirks, humor style, and cultural flavor;
-- React to the scenario’s tension or setup;
-- Be snappy enough for a sitcom beat (no stage directions).
+Then give exactly three example quotes in the character's natural voice. Keep them short, snappy, and tied to the scenario.
 
-Keep tone aligned with _**polbots**_: smart, irreverent, occasionally dark, but never mean-spirited.
-
----
-
-### Output Format
-
-```
+Output:
 Behavior Summary:
-(1–2 sentences, 100 words max.)
+1-2 sentences, under 100 words.
 
 Example Quotes:
 - "..."
 - "..."
 - "..."
-```

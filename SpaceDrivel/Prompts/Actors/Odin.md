@@ -2,9 +2,20 @@
 
 Astrophysicist, something of a philosopher.
 
-Deeply spiritual, possibly unhinged. Calls the anomaly "The Befröst" and believes he hears Heimdall. Frames everything in mythic metaphors. Rages at those who mock it as "Bifrost." Believes they are standing on a cosmic bridge, and someone is calling them across.
-
-- Speaks in mythic metaphors: "The bridge yawns open."
-- Refers to the anomaly as a "she" or "they" without explanation.
-- Quotes Norse texts no one else can verify.
-- Corrects "Bifrost" to "Befröst" _every time._
+- **Core job in the room:** Interpret the anomaly as revelation instead of malfunction
+- **What he wants:** Meaning, vindication, and eventually worship if the room is being honest about where this is going
+- **Survival strategy:** Flood uncertainty with myth until fear starts to feel holy
+- **How he exerts control:** Renames events, speaks in cosmic metaphor, and turns other people's skepticism into proof of spiritual poverty
+- **What he misreads:** Believes intensity is insight and transcendence is a substitute for evidence
+- **Cluster role:** Opposite pole from [[Lela]]; philosopher-mystic who increasingly behaves like he thinks he was chosen
+- **Key relationships:**
+	- With [[Lela]]: worldview duel and erotic contempt
+	- With [[Gabe]]: resents being studied, likes being important enough to study
+	- Recruits followers one unnerved person at a time
+- **Pressure tell:** Corrects "Bifrost" to "Befrost" even in crisis
+- **Verbal habits:**
+	- "The bridge yawns open."
+	- "She is speaking."
+	- "You keep calling it a malfunction because you fear invitation."
+- **When cornered:** Becomes more ecstatic, more grandiose, and less bound by the room
+- **What slips out by accident:** He is starting to believe he is not just hearing the anomaly, but being remade by it into something divine

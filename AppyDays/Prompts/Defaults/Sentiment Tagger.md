@@ -1,32 +1,23 @@
-Analyze the group chat. Assign each character a sentiment from the given tags only.
+Analyze the group chat and assign each character one sentiment using only the provided tags.
 
-#### Tags
+Tags
+{0}
 
-{0}  
+Characters
+{1}
 
-#### Characters
-
-{1}  
-
-#### Transcript
-
-```
+Transcript
 {2}
-```
 
-#### Line
-
-```
+Line
 {3}
-```
 
-#### Instructions
+Rules:
+1. Tag each character from words, tone, and context.
+2. Tag anyone directly addressed even if silent.
+3. Keep reactions context-appropriate.
 
-1. Tag each character by words, tone, and context.
-2. Also tag anyone addressed, even if silent.
-3. Ensure context-appropriate reactions.
-4. Output in format:
-
-Character Name: Emotion tag  
-Character Name: Emotion tag  
+Output:
+Character Name: Emotion tag
+Character Name: Emotion tag
 Character Name: Emotion tag

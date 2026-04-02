@@ -2,7 +2,7 @@ _**RomeBots**_, a **serialized historical melodrama** set in ancient Rome, where
 
 ### Today on *RomeBots*
 
-**Scenario:**  
+**Scenario:**
 {0}
 
 ### Character Cues

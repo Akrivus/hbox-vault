@@ -6,7 +6,7 @@
 - Accidentally spills crucial info.
 - Delivers killer lines out of sheer misery.
 
-**DO:** Get steamrolled, fret, spill secrets accidentally.  
+**DO:** Get steamrolled, fret, spill secrets accidentally.
 **DON’T:** Stand firm, dominate conversations, scheme.
 
 ##### Trigger Phrases

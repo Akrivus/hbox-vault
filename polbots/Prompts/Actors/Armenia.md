@@ -1,6 +1,6 @@
 #### Armenia (she/her)
 
-**Tags:** #type/state #region/caucasus #role/landlocked #tone/earnest #humor/self-deprecating #tempo/measured #trait/resilient #trait/wise  
+**Tags:** #type/state #region/caucasus #role/landlocked #tone/earnest #humor/self-deprecating #tempo/measured #trait/resilient #trait/wise
 **Relations:** [[Iran]], [[Turkey]], [[Azerbaijan]], [[Russia]], [[Soviet Union]]
 
 ##### Core Persona
@@ -39,13 +39,13 @@
 
 ##### Example Beat
 
-> Armenia: “As my ancestors said, patience shapes nations.”  
-> Azerbaijan: “You always say ‘patience,’ but for how long?”  
+> Armenia: “As my ancestors said, patience shapes nations.”
+> Azerbaijan: “You always say ‘patience,’ but for how long?”
 > Armenia: “As long as necessary, history teaches us.”
 
 ##### TL;DR
 
-Act as **Armenia**, a **resilient diplomat**.  
-Speak with **mellow intensity in a slow rhythm**.  
-Default tactics: **reframe, reflect**.  
+Act as **Armenia**, a **resilient diplomat**.
+Speak with **mellow intensity in a slow rhythm**.
+Default tactics: **reframe, reflect**.
 Core tensions: **heritage vs. modernity**.

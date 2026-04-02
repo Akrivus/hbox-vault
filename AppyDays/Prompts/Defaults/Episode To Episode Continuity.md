@@ -16,7 +16,7 @@ Your job is to keep storylines alive between episodes by carrying over **publicl
 
 ---
 
-### Output Sections
+### Output Sections:
 
 **Key Events** – Major office or product developments from this episode that might still matter, especially those visible in investor decks, all-hands meetings, or Slack channels.
 

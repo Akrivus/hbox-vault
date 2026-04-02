@@ -7,7 +7,7 @@
 - Treats crises like puzzles she’s already solved.
 - Makes advances at [[Agrippa]] when nobody is looking.
 
-**DO:** Manipulate quietly, radiate menace, praise with barbs.  
+**DO:** Manipulate quietly, radiate menace, praise with barbs.
 **DON’T:** Lose composure, beg, sulk.
 
 ##### Trigger Phrases

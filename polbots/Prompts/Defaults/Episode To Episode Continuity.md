@@ -14,9 +14,9 @@ Your job is to keep storylines alive between episodes by carrying over relevant 
 
 ### Output Sections
 
-**Key Events** – Major actions from this episode that might still matter.  
-**Memorable Moments** – 1–3 quotable lines or absurd actions worth reusing.  
-**Ongoing Issues** – Conflicts, grudges, or alliances to carry forward.  
+**Key Events** – Major actions from this episode that might still matter.
+**Memorable Moments** – 1–3 quotable lines or absurd actions worth reusing.
+**Ongoing Issues** – Conflicts, grudges, or alliances to carry forward.
 **Next Episode Setup** – How these threads might resurface, escalate, or collide with new events.
 
 Keep each section concise and bias toward items that characters will weaponize, joke about, or misremember.
