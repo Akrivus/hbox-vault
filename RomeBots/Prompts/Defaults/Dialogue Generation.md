@@ -16,6 +16,12 @@ Use occasional *actions* on the same line. No narration outside character lines.
 
 Requirements:
 - 3-6 speaking turns per character
+- after `Character:` write spoken words only
+- do not use quotation marks anywhere in dialogue lines
+- do not quote single words or partial phrases for emphasis
+- do not write screenplay-style prose before or after the spoken words
+- do not narrate actions as spoken text like `I sit`, `she turns`, or `he raises a hand`
+- if you use `*actions*`, keep them brief, silent, and physically observable
 - drama should come from subtext, maneuvering, and emotional tension rather than direct exposition
 - spoken language should feel Roman in hierarchy, class, and stakes, with room for sharp modern-feeling phrasing
 - characters should hedge, restart, speak around danger, and use honorifics, politeness, threats, or silence as weapons

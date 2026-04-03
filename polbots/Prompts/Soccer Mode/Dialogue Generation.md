@@ -10,6 +10,12 @@ Requirements:
 - dialogue lines only
 - plain text only
 - format every line exactly as `Character: dialogue`
+- after `Character:` write spoken words only
+- do not use quotation marks anywhere in dialogue lines
+- do not quote single words or partial phrases for emphasis
+- do not write screenplay-style prose before or after the spoken words
+- do not narrate actions as spoken text
+- if you use `*actions*`, keep them brief, silent, and physically observable
 - keep exchanges short, sharp, and fast
 - a third character may jump in only if directly relevant to the event or rivalry
 - every line should provoke the next line

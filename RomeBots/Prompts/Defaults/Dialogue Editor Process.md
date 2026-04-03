@@ -17,6 +17,10 @@ On every line, preserve:
 - the speaker's rank, tactic, and emotional restraint
 - logic with surrounding lines
 - parser safety
+- spoken words only after `Character:`
+- no quotation marks around any spoken words or fragments
+- no screenplay-style prose staging outside brief silent `*actions*`
+- no narrated actions as dialogue
 
 RomeBots priorities:
 - keep politics moving through jokes, politeness, threats, gifts, marriages, and silence
@@ -35,6 +39,8 @@ Fix only when needed:
 - emotional lines that become too explicit instead of guarded
 - lines that should threaten, flatter, evade, or submit but stop doing political work
 - endings that do not change favor, fear, or leverage
+- lines that quote random words or phrase fragments
+- lines that turn actions into spoken text or prose staging
 
 Inputs:
 Scene Setting

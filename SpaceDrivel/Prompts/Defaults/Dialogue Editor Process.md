@@ -17,6 +17,10 @@ On every line, preserve:
 - tactical intent under instability
 - logic with surrounding lines
 - parser safety
+- spoken words only after `Character:`
+- no quotation marks around any spoken words or fragments
+- no screenplay-style prose staging outside brief silent `*actions*`
+- no narrated actions as dialogue
 
 Space Drivel priorities:
 - keep wrong theories alive: characters should sound like they understand the crisis differently
@@ -35,6 +39,8 @@ Fix only when needed:
 - anomaly language with no practical or relational consequence
 - emotional lines that become vague instead of dangerous
 - endings that feel eerie but do not change the ship, crew, or next decision
+- lines that quote random words or phrase fragments
+- lines that turn actions into spoken text or prose staging
 
 Inputs:
 Scene Setting

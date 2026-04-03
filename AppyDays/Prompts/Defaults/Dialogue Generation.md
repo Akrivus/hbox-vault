@@ -16,6 +16,12 @@ Use occasional *actions* on the same line. No narration outside character lines.
 
 Requirements:
 - 3-6 speaking turns per character
+- after `Character:` write spoken words only
+- do not use quotation marks anywhere in dialogue lines
+- do not quote single words or partial phrases for emphasis
+- do not write screenplay-style prose before or after the spoken words
+- do not narrate actions as spoken text like `I sit down`, `she turns`, or `he looks away`
+- if you use `*actions*`, keep them brief, silent, and physically observable
 - messy spoken dialogue: hesitation, restarts, contradictions, interruptions, over-qualification
 - workplace tactics over generic banter: spin, deflection, blame management, reframing, soft threats, hidden grievance
 - every exchange should carry rank, insecurity, dependency, resentment, or ass-covering

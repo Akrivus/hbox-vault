@@ -16,6 +16,10 @@ On every line, preserve:
 - useful delivery improvements from prior passes
 - logic with surrounding lines
 - parser safety
+- spoken words only after `Character:`
+- no quotation marks around any spoken words or fragments
+- no screenplay-style prose staging outside brief silent `*actions*`
+- no narrated actions as dialogue
 
 AppyDays priorities:
 - keep workplace tactics active: spin, deflection, blame management, false calm, assignment of ownership, passive-aggressive professionalism
@@ -34,6 +38,8 @@ Fix only when needed:
 - jargon with no emotional function
 - lines that should sound nervous but sound too confident
 - lines that should be casually devastating but sound theatrical
+- lines that quote random words or phrase fragments
+- lines that turn actions into spoken text or prose staging
 
 Inputs:
 Scene Setting

@@ -16,6 +16,12 @@ Use occasional *actions* on the same line. No narration outside character lines.
 
 Requirements:
 - 3-6 speaking turns per character
+- after `Character:` write spoken words only
+- do not use quotation marks anywhere in dialogue lines
+- do not quote single words or partial phrases for emphasis
+- do not write screenplay-style prose before or after the spoken words
+- do not narrate actions as spoken text like `I sit down`, `she scrolls`, or `he turns`
+- if you use `*actions*`, keep them brief, silent, and physically observable
 - humor should come from character interaction, banter, hypocrisy, and absurd escalation, not clean preaching
 - dialogue should be sloppy and fast: interruptions, bad repeats, backpedaling, fillers, ego, confusion
 - each country should show at least one verbal habit, physical gag, or emotional reflex
