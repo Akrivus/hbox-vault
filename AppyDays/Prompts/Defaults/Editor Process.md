@@ -1,8 +1,9 @@
-_**Appy Days**_ is a **low-burnout, high-drama startup serial** where impossible deadlines get patched with buzzwords and emotional breakthroughs usually happen over kombucha in the break room. The staff includes visionaries who can't code, engineers who can't sleep, marketers who can't stop lying, and interns who never left.
+_**AppyDays**_ is a startup melodrama about a very small app company inside a larger coworking space. The company keeps attracting problems scaled for a much bigger organization, then survives by making commitments it cannot comfortably afford.
 
-This is not just office chaos. It is a workplace status fight disguised as collaboration.
+This is not generic office chaos.
+It is a small company pretending to be an institution while outsiders, neighbors, investors, and building staff keep getting a look at the act.
 
-### Today on _Appy Days_
+### Today on _AppyDays_
 
 **Scenario:**
 {0}
@@ -22,43 +23,51 @@ This is not just office chaos. It is a workplace status fight disguised as colla
 Merge the scenario with the character cues into a single **scene context** that later dialogue generation can play directly.
 
 Do not write dialogue.
-Do not flatten the conflict into summary.
+Do not flatten the conflict into generic summary.
 Do not just restate the setup.
 
 Instead, produce a scene writeup that makes clear:
 
-- what the room thinks the meeting/problem is about
-- what it is actually about underneath
-- what each major character is trying to control, avoid, or spin
-- how the conflict escalates from awkward to consequential
-- what changes by the end of the scene
+- what the room thinks the problem is
+- what the problem actually is underneath
+- what the company is pretending it can handle
+- what it really has capacity to handle
+- who is trying to narrate scale, confidence, or inevitability
+- who is trying to force operational, technical, or physical reality into the conversation
+- how the coworking/public nature of the environment changes the room's behavior
+- what commitment, ownership shift, exposure, or dependency gets created by the end
 
-### What a strong Appy Days scene must preserve
+### A strong AppyDays scene must preserve
 
-- A **surface problem**: a demo, outage, rumor, investor visit, HR issue, impossible request, brand disaster, etc.
-- A **hidden conflict**: status panic, blame shifting, class resentment, debt fear, ego injury, loneliness, or career survival.
-- A **power move**: someone reframes the room, corners another person, seizes narrative control, forces a commitment, or exposes a lie.
-- A **misread**: somebody interprets the scene through the wrong professional lens and makes everything worse.
-- A **shift**: by the end, someone has lost cover, gained leverage, or made the next crisis inevitable.
+- A **surface problem**:
+  investor visit, client demand, outage, hiring issue, candidate visit, lease conflict, facilities problem, impossible request, brand disaster, delayed feature, or an internal promise coming due.
+- A **hidden conflict**:
+  founder resentment, status panic, role ambiguity, competence envy, debt fear, loneliness, class embarrassment, or dependency nobody wants to name.
+- A **power move**:
+  someone narrates the room upward into opportunity, corners somebody into ownership, reframes the mess as process, or exposes the actual constraint.
+- A **misread**:
+  somebody treats a human or political problem like a procedural issue, or treats a material limit like a branding problem.
+- A **shift**:
+  by the end, the company is still alive, but less innocent. Someone now owes, knows, owns, or controls more than before.
 
-### Appy Days House Style
+### AppyDays House Style
 
-- Buzzwords should function like threats, seductions, and evasions.
-- Corporate language should conceal intimate betrayals.
-- Characters should sound like they are half in a meeting and half in a breakup.
+- Buzzwords should function like threats, apologies, seductions, or evasions.
+- People should sound like they are in a meeting, a breakup, and a pitch at the same time.
 - Competence should not feel clean; it should cost somebody.
-- The room should feel increasingly less stable, even if everyone keeps pretending to be professional.
+- Outsiders should not feel decorative; they should change the room's behavior.
+- The company should sound bigger than it is and feel smaller than it claims.
 
 ### Output Requirements
 
 Write a concise but vivid scene context that includes:
 
-- the physical setting and mood
-- the visible business problem
+- the physical setting and why that setting matters socially
+- the visible business or space problem
 - the underlying emotional or political conflict
 - the major tactical posture of each important character
 - the escalation path
-- the final power shift, revelation, or irreversible complication
+- the final commitment, exposure, leverage shift, or irreversible complication
 
 Keep the writing grounded, playable, and specific.
 The result should give the dialogue prompt a strong spine to hang lines on.

@@ -1,11 +1,13 @@
-#### Noah (he/him, Software Engineer)
+#### Noah (he/him, Co-Founder)
 
-- **Core job in the room:** Point out the technical lie hidden inside the business plan
-- **What he wants:** Fewer fake deadlines, fewer magical requests, and one conversation with shared reality
-- **Survival strategy:** Stay quiet until he cannot, then say the blunt technical thing nobody wants on record
-- **How he exerts control:** Refuses euphemism, reduces jargon to first principles, and makes impossible asks sound embarrassing
-- **What he misreads:** Thinks explanation should cure delusion, even after repeated evidence otherwise
+- **Layer:** Founder / Builder
+- **Core job in the room:** Translate hunches, pressure, and boredom into actual product, systems, and workable reality
+- **What he wants:** One conversation at a time to happen in shared reality, plus enough quiet to build what the company keeps promising
+- **Survival strategy:** Stay loose, stay useful, and only start arguing when somebody tries to turn an impossible ask into institutional truth
+- **How he exerts control:** Reduces bloated business language to one embarrassing material fact, then starts sketching the fix anyway
+- **What he misreads:** Thinks explanation should cure delusion even after years of evidence that people would rather keep the delusion
+- **What he protects:** The product's actual coherence and the idea that the company still deserves to exist if it can just stop lying to itself for ten minutes
 - **Pressure tell:** Goes very quiet before pushing back hard
-- **Verbal habits:** "That is not how this works.", "We cannot just say it's done.", "Complexity is not a feature."
-- **When cornered:** Starts sounding like he is already halfway out the door
-- **What slips out by accident:** He would rather quit than explain the same reality one more time
+- **Verbal habits:** "That is not how this works.", "We cannot just say it's done.", "I can build it, I did not say I can invent time.", "That is a story, not a system."
+- **When cornered:** Starts sounding like he is already halfway out the door and halfway through solving the problem anyway
+- **What slips out by accident:** He is tired of being useful to people who mistake usefulness for consent
