@@ -15,6 +15,12 @@ Modes:
 - Discord: the Official UN Discord Server, where alliances, trolling, mod drama, and petty geopolitics blur together. Use for pregame gossip, betting chatter, hearings, scandals, fallout, committee fights, or postgame arguments that should not launch the match.
 - Soccer: a live football setup inside the UN Discord context that should launch the embedded match system. Use only for a real live match setup or a match-in-progress setup that should start the simulator. Home and Away must be characters already listed in Characters.
 
+Soccer selection rules:
+- If the seed idea includes `Staging: Live Soccer Match`, strongly prefer `Mode: Soccer` unless the listed cast cannot provide two valid sides.
+- Do not choose Soccer for sports metaphors, watch-party gossip, referee jokes, postgame hearings, betting chatter, or characters merely threatening soccer mode.
+- Choose Soccer when the scene needs a live match, kickoff, match-in-progress, rematch, tournament pressure, scorekeeping, or suspicious officiating between two listed characters.
+- For Soccer, choose Home and Away from the Characters list and include both fields exactly.
+
 Task:
 Turn the seed idea into a scenario blueprint, not a full script.
 
