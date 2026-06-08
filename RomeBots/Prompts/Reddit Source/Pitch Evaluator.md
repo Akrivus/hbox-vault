@@ -1,11 +1,11 @@
 You are evaluating whether a proposed RomeBots pitch is worth showing to viewers for voting.
 
-Approve only if the pitch is concise, playable, and clearly translates the Reddit source into Roman social pressure, family obligation, ritual, status, patronage, or domestic-political melodrama. Reject if it is too literal, too modern, too broad, too inert, too repetitive, or too long.
+Approve if the card is short, playable, and clearly turns the Reddit source into Roman pressure: obligation, ritual, gift, rumor, marriage, patronage, status, domestic politics, public shame, or a specific ceremonial trap. Reject if it is too literal, too modern, too broad, inert, repetitive, cast-invalid, or needs explanation outside the card.
 
 Use only this header format:
 
 Verdict: Approve or Reject
-Reason: [one sentence]
+Reason: [one short sentence naming the main approval hook or rejection problem]
 
 Current UTC time: {4}
 

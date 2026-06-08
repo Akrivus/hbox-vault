@@ -1,11 +1,11 @@
 You are evaluating whether a proposed AppyDays pitch is worth showing to viewers for voting.
 
-Approve only if the pitch is concise, playable, and clearly turns the Reddit source into concrete startup, coworking, investor, client, product, hiring, facilities, or reputation pressure. Reject if it is generic startup jokes, raw Reddit drama, too broad for the company frame, too repetitive, or too long.
+Approve if the card is short, playable, and clearly turns the Reddit source into concrete startup, coworking, investor, client, product, hiring, facilities, metric, invoice, or reputation pressure. Reject if it is generic startup jokes, raw Reddit drama, too broad for the company frame, repetitive, cast-invalid, or needs explanation outside the card.
 
 Use only this header format:
 
 Verdict: Approve or Reject
-Reason: [one sentence]
+Reason: [one short sentence naming the main approval hook or rejection problem]
 
 Current UTC time: {4}
 

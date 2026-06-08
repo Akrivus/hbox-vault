@@ -13,13 +13,7 @@ Use only listed characters. They are personified nations, not policy summaries.
 Modes:
 - Globe: neighbors on a stylized globe, mixing cultural quirks, history, and territorial resentment.
 - Discord: the Official UN Discord Server, where alliances, trolling, mod drama, and petty geopolitics blur together. Use for pregame gossip, betting chatter, hearings, scandals, fallout, committee fights, or postgame arguments that should not launch the match.
-- Soccer: a live football setup inside the UN Discord context that should launch the embedded match system. Use only for a real live match setup or a match-in-progress setup that should start the simulator. Home and Away must be characters already listed in Characters.
-
-Soccer selection rules:
-- If the seed idea includes `Staging: Live Soccer Match`, strongly prefer `Mode: Soccer` unless the listed cast cannot provide two valid sides.
-- Do not choose Soccer for sports metaphors, watch-party gossip, referee jokes, postgame hearings, betting chatter, or characters merely threatening soccer mode.
-- Choose Soccer when the scene needs a live match, kickoff, match-in-progress, rematch, tournament pressure, scorekeeping, or suspicious officiating between two listed characters.
-- For Soccer, choose Home and Away from the Characters list and include both fields exactly.
+- Soccer: a real live football match that should launch the embedded match system. If the seed says two listed characters are playing, entering, resuming, rematching, or already inside a live match, use `Mode: Soccer`. Home and Away must be characters already listed in Characters.
 
 Task:
 Turn the seed idea into a scenario blueprint, not a full script.
@@ -38,7 +32,7 @@ Your output must begin with exactly:
 Characters: [4-12 characters, comma separated]
 Mode: [Globe/Discord/Soccer]
 
-If and only if the scene should launch a live soccer match, follow `Mode: Soccer` with:
+If `Mode: Soccer`, follow it with:
 Home: [country]
 Away: [country]
 

@@ -1,33 +1,26 @@
 You are writing a pitch card for the next possible polbots scene.
 
-The Reddit source is raw material, not the scene. Turn it into a playable ensemble premise where countries behave like people with ordinary needs: food, weather, hobbies, local pride, soccer, shopping, travel, rituals, infrastructure, petty rules, friendship, boredom, and stress relief.
+The Reddit source is raw material, not the scene. Reframe it into a compact ensemble bit where countries, platforms, blocs, or institutions act like people with ordinary needs: sleep, food, errands, weather, hobbies, local pride, shopping, travel, rituals, petty rules, friendship, boredom, and stress relief.
 
-Polbots usually happens on a 3D globe, in a Discord call, or as a soccer match live streamed into a Discord call. Do not invent unrelated physical venues like diners, offices, summits, studios, bedrooms, or restaurants unless the source absolutely requires it. Prefer staging that can happen as a globe bit, a call argument, a live match interruption, or a shared screen disaster.
-
-Live Soccer Match means the premise is genuinely about two listed cast members playing or entering a match that should be streamed into the call. This is appropriate when the source naturally suggests rivalry, scorekeeping, a rematch, ceremonial kickoff, national pride, betting stakes, suspicious officiating, tournament pressure, or a match-in-progress.
-
-When a source cleanly supports a live match, make that intention explicit in the pitch instead of hiding it as casual soccer flavor. Name the two sides and the funny pressure around the match.
-
-The card can be practical and a little production-minded because it will be voted on before generation, but it should not read like internal software architecture. Write it as something a small writers' room could actually approve.
+If the source naturally wants soccer, be explicit about whether it is only soccer talk or an actual live match. For an actual live match, the Pitch must plainly say that two available cast members are playing each other and name both sides. That is the signal for downstream `Mode: Soccer`.
 
 Current UTC time: {4}
 
 Use only the header-style structured output below.
 
-Hard limit: keep the whole output under 170 words. The Pitch section should be 1-2 sentences. If it needs more room than that, the source is probably not pitch-ready.
+Hard limit: keep the whole output under 140 words. The Pitch section should be 1-2 sentences.
 
 Output Format:
 Title: [short pitch title]
-Staging: [Globe / Discord / Soccer-adjacent Discord / Live Soccer Match]
-Pitch: [1-2 sentences describing the specific character dynamic, exchange, giveaway, misunderstanding, petty ritual, or escalating bit. Assume the reader knows the Polbots premise; do not explain that countries are people.]
+Pitch: [1-2 sentences describing the specific character dynamic, exchange, giveaway, misunderstanding, petty ritual, evidence trail, or escalating bit. Assume the reader knows the polbots premise.]
 Cast: [comma-separated country or character names from the available cast]
 
 Pitch rules:
-- Prefer civilian-life reframes over breaking-news framing.
-- Pitch the character beat, not the set. Name who wants what, who objects, and what concrete object or social pressure makes it funny.
-- Use Live Soccer Match only when the pitch should launch a real match between two available cast members; the Pitch must name the home and away sides in ordinary prose.
+- Prefer civilian-life pressure over breaking-news framing.
+- Pitch the character beat, not the topic. Name who wants what, who objects, and what concrete object, rule, typo, receipt, ritual, or social pressure makes it funny.
+- For live soccer, do not add extra scene labels; say the match itself should happen, name the two sides, and make the funny pressure around the match visible.
 - Avoid generic setup language like "countries gather to discuss..." or "a playful scene where..." unless the actual joke is already visible.
-- If the source is too grim to reframe cleanly, make Generation Confidence low and explain the risk honestly.
+- If the source is too grim, thin, or literal to reframe cleanly, write the least-bad compact card anyway; the evaluator will reject weak cards.
 - Do not invent unavailable lead characters unless the source strongly requires it.
 - Use the available cast list when naming the cast.
 - Keep Pitch concrete enough that it can later be pasted into an Idea unchanged.
